@@ -1,0 +1,6602 @@
+[
+    {
+        "rgbCode": "rgb(236,228,216)",
+        "Code": "BCP-0001",
+        "Name": "Hint of Vanilla"
+    },
+    {
+        "rgbCode": "rgb(231,225,211)",
+        "Code": "BCP-0002",
+        "Name": "Elusive White"
+    },
+    {
+        "rgbCode": "rgb(239,231,220)",
+        "Code": "BCP-0003",
+        "Name": "Nilla Vanilla"
+    },
+    {
+        "rgbCode": "rgb(238,231,219)",
+        "Code": "BCP-0004",
+        "Name": "Child of Heaven"
+    },
+    {
+        "rgbCode": "rgb(241,231,216)",
+        "Code": "BCP-0005",
+        "Name": "Kiara"
+    },
+    {
+        "rgbCode": "rgb(232,220,204)",
+        "Code": "BCP-0006",
+        "Name": "Little Dove"
+    },
+    {
+        "rgbCode": "rgb(242,234,219)",
+        "Code": "BCP-0007",
+        "Name": "Cotton Ball"
+    },
+    {
+        "rgbCode": "rgb(243,232,213)",
+        "Code": "BCP-0008",
+        "Name": "Casa Blanca"
+    },
+    {
+        "rgbCode": "rgb(241,230,212)",
+        "Code": "BCP-0009",
+        "Name": "Chapel Wall"
+    },
+    {
+        "rgbCode": "rgb(238,224,203)",
+        "Code": "BCP-0010",
+        "Name": "Petticoat"
+    },
+    {
+        "rgbCode": "rgb(246,243,233)",
+        "Code": "BCP-0011",
+        "Name": "Sugar Dust"
+    },
+    {
+        "rgbCode": "rgb(242,235,222)",
+        "Code": "BCP-0012",
+        "Name": "Bunny Cake"
+    },
+    {
+        "rgbCode": "rgb(243,227,201)",
+        "Code": "BCP-0013",
+        "Name": "Sphere"
+    },
+    {
+        "rgbCode": "rgb(238,227,206)",
+        "Code": "BCP-0014",
+        "Name": "Twill"
+    },
+    {
+        "rgbCode": "rgb(250,240,224)",
+        "Code": "BCP-0015",
+        "Name": "White Glove"
+    },
+    {
+        "rgbCode": "rgb(246,236,217)",
+        "Code": "BCP-0016",
+        "Name": "Pumice Stone"
+    },
+    {
+        "rgbCode": "rgb(233,230,220)",
+        "Code": "BCP-0017",
+        "Name": "Luna Moon"
+    },
+    {
+        "rgbCode": "rgb(226,221,211)",
+        "Code": "BCP-0018",
+        "Name": "Dove White"
+    },
+    {
+        "rgbCode": "rgb(231,229,220)",
+        "Code": "BCP-0019",
+        "Name": "Mystic Fog"
+    },
+    {
+        "rgbCode": "rgb(227,221,210)",
+        "Code": "BCP-0020",
+        "Name": "Bonaire"
+    },
+    {
+        "rgbCode": "rgb(223,222,216)",
+        "Code": "BCP-0021",
+        "Name": "Barely White"
+    },
+    {
+        "rgbCode": "rgb(221,218,214)",
+        "Code": "BCP-0022",
+        "Name": "White Kitten"
+    },
+    {
+        "rgbCode": "rgb(235,236,227)",
+        "Code": "BCP-0023",
+        "Name": "Shell Tint"
+    },
+    {
+        "rgbCode": "rgb(230,228,219)",
+        "Code": "BCP-0024",
+        "Name": "Just About White"
+    },
+    {
+        "rgbCode": "rgb(232,228,216)",
+        "Code": "BCP-0025",
+        "Name": "Prismatic Pearl"
+    },
+    {
+        "rgbCode": "rgb(218,207,196)",
+        "Code": "BCP-0026",
+        "Name": "Moon Drop"
+    },
+    {
+        "rgbCode": "rgb(231,224,213)",
+        "Code": "BCP-0027",
+        "Name": "White Fence"
+    },
+    {
+        "rgbCode": "rgb(225,221,210)",
+        "Code": "BCP-0028",
+        "Name": "Bannister White"
+    },
+    {
+        "rgbCode": "rgb(228,224,214)",
+        "Code": "BCP-0029",
+        "Name": "Cherish is the Word"
+    },
+    {
+        "rgbCode": "rgb(215,211,202)",
+        "Code": "BCP-0030",
+        "Name": "Lady Nicole"
+    },
+    {
+        "rgbCode": "rgb(226,220,207)",
+        "Code": "BCP-0031",
+        "Name": "Italian Ice"
+    },
+    {
+        "rgbCode": "rgb(231,231,220)",
+        "Code": "BCP-0032",
+        "Name": "Ice Dream"
+    },
+    {
+        "rgbCode": "rgb(244,220,204)",
+        "Code": "BCP-0033",
+        "Name": "Chafed Wheat"
+    },
+    {
+        "rgbCode": "rgb(236,203,186)",
+        "Code": "BCP-0034",
+        "Name": "Here Comes the Sun"
+    },
+    {
+        "rgbCode": "rgb(229,189,171)",
+        "Code": "BCP-0035",
+        "Name": "Weekend Retreat"
+    },
+    {
+        "rgbCode": "rgb(213,165,147)",
+        "Code": "BCP-0036",
+        "Name": "Fortune's Prize"
+    },
+    {
+        "rgbCode": "rgb(196,143,122)",
+        "Code": "BCP-0037",
+        "Name": "Money Tree"
+    },
+    {
+        "rgbCode": "rgb(180,121,98)",
+        "Code": "BCP-0038",
+        "Name": "Autumn's Hill"
+    },
+    {
+        "rgbCode": "rgb(157,97,75)",
+        "Code": "BCP-0039",
+        "Name": "Mandalay Road"
+    },
+    {
+        "rgbCode": "rgb(241,222,211)",
+        "Code": "BCP-0040",
+        "Name": "Antique Candle Light"
+    },
+    {
+        "rgbCode": "rgb(238,211,201)",
+        "Code": "BCP-0041",
+        "Name": "Chinese Cherry"
+    },
+    {
+        "rgbCode": "rgb(227,190,178)",
+        "Code": "BCP-0042",
+        "Name": "Antoinette Pink"
+    },
+    {
+        "rgbCode": "rgb(215,171,157)",
+        "Code": "BCP-0043",
+        "Name": "Angel Breath"
+    },
+    {
+        "rgbCode": "rgb(195,150,139)",
+        "Code": "BCP-0044",
+        "Name": "Calliope"
+    },
+    {
+        "rgbCode": "rgb(159,105,89)",
+        "Code": "BCP-0045",
+        "Name": "Sizzling Hot"
+    },
+    {
+        "rgbCode": "rgb(125,75,62)",
+        "Code": "BCP-0046",
+        "Name": "Valentino"
+    },
+    {
+        "rgbCode": "rgb(240,205,190)",
+        "Code": "BCP-0047",
+        "Name": "Sand Island"
+    },
+    {
+        "rgbCode": "rgb(226,180,164)",
+        "Code": "BCP-0048",
+        "Name": "Embrace"
+    },
+    {
+        "rgbCode": "rgb(210,159,146)",
+        "Code": "BCP-0049",
+        "Name": "Auburn Wave"
+    },
+    {
+        "rgbCode": "rgb(198,144,129)",
+        "Code": "BCP-0050",
+        "Name": "Simmering Ridge"
+    },
+    {
+        "rgbCode": "rgb(174,112,95)",
+        "Code": "BCP-0051",
+        "Name": "Caramel Candy"
+    },
+    {
+        "rgbCode": "rgb(160,99,81)",
+        "Code": "BCP-0052",
+        "Name": "Spiced Carrot"
+    },
+    {
+        "rgbCode": "rgb(135,78,60)",
+        "Code": "BCP-0053",
+        "Name": "Remaining Embers"
+    },
+    {
+        "rgbCode": "rgb(246,229,219)",
+        "Code": "BCP-0054",
+        "Name": "Wink Pink"
+    },
+    {
+        "rgbCode": "rgb(245,210,201)",
+        "Code": "BCP-0055",
+        "Name": "Strawberry Whip"
+    },
+    {
+        "rgbCode": "rgb(236,184,174)",
+        "Code": "BCP-0056",
+        "Name": "Dainty Debutante"
+    },
+    {
+        "rgbCode": "rgb(202,127,120)",
+        "Code": "BCP-0057",
+        "Name": "Marble Pink"
+    },
+    {
+        "rgbCode": "rgb(177,102,94)",
+        "Code": "BCP-0058",
+        "Name": "Angelic Choir"
+    },
+    {
+        "rgbCode": "rgb(136,80,71)",
+        "Code": "BCP-0059",
+        "Name": "Quintessential"
+    },
+    {
+        "rgbCode": "rgb(132,65,68)",
+        "Code": "BCP-0060",
+        "Name": "Parlor Rose"
+    },
+    {
+        "rgbCode": "rgb(234,185,183)",
+        "Code": "BCP-0061",
+        "Name": "Pinkathon"
+    },
+    {
+        "rgbCode": "rgb(208,148,148)",
+        "Code": "BCP-0062",
+        "Name": "Blooming Perfect"
+    },
+    {
+        "rgbCode": "rgb(188,123,123)",
+        "Code": "BCP-0063",
+        "Name": "Impatient Heart"
+    },
+    {
+        "rgbCode": "rgb(175,103,100)",
+        "Code": "BCP-0064",
+        "Name": "Lord Baltimore"
+    },
+    {
+        "rgbCode": "rgb(166,95,91)",
+        "Code": "BCP-0065",
+        "Name": "Poppy Prose"
+    },
+    {
+        "rgbCode": "rgb(138,60,62)",
+        "Code": "BCP-0066",
+        "Name": "Wild Rose"
+    },
+    {
+        "rgbCode": "rgb(138,66,66)",
+        "Code": "BCP-0067",
+        "Name": "Lover's Kiss"
+    },
+    {
+        "rgbCode": "rgb(245,219,211)",
+        "Code": "BCP-0068",
+        "Name": "Summer Blush"
+    },
+    {
+        "rgbCode": "rgb(225,193,191)",
+        "Code": "BCP-0069",
+        "Name": "Empire Rose"
+    },
+    {
+        "rgbCode": "rgb(218,180,178)",
+        "Code": "BCP-0070",
+        "Name": "O Fortuna"
+    },
+    {
+        "rgbCode": "rgb(201,159,158)",
+        "Code": "BCP-0071",
+        "Name": "Ruby Eye"
+    },
+    {
+        "rgbCode": "rgb(179,131,131)",
+        "Code": "BCP-0072",
+        "Name": "Notice Me"
+    },
+    {
+        "rgbCode": "rgb(150,99,96)",
+        "Code": "BCP-0073",
+        "Name": "Corazon"
+    },
+    {
+        "rgbCode": "rgb(119,71,63)",
+        "Code": "BCP-0074",
+        "Name": "Emperor's Robe"
+    },
+    {
+        "rgbCode": "rgb(244,228,223)",
+        "Code": "BCP-0075",
+        "Name": "Pink Duet"
+    },
+    {
+        "rgbCode": "rgb(224,196,196)",
+        "Code": "BCP-0076",
+        "Name": "Fantastic Pink"
+    },
+    {
+        "rgbCode": "rgb(216,181,184)",
+        "Code": "BCP-0077",
+        "Name": "Pink Softness"
+    },
+    {
+        "rgbCode": "rgb(195,156,161)",
+        "Code": "BCP-0078",
+        "Name": "Be Mine"
+    },
+    {
+        "rgbCode": "rgb(183,137,140)",
+        "Code": "BCP-0079",
+        "Name": "Prophetess"
+    },
+    {
+        "rgbCode": "rgb(145,98,101)",
+        "Code": "BCP-0080",
+        "Name": "Abra Cadabra"
+    },
+    {
+        "rgbCode": "rgb(114,72,68)",
+        "Code": "BCP-0081",
+        "Name": "Berry Crush"
+    },
+    {
+        "rgbCode": "rgb(238,210,210)",
+        "Code": "BCP-0082",
+        "Name": "Rose Shadow"
+    },
+    {
+        "rgbCode": "rgb(230,199,201)",
+        "Code": "BCP-0083",
+        "Name": "Pink Coral"
+    },
+    {
+        "rgbCode": "rgb(222,185,189)",
+        "Code": "BCP-0084",
+        "Name": "Quiet Pink"
+    },
+    {
+        "rgbCode": "rgb(207,160,168)",
+        "Code": "BCP-0085",
+        "Name": "Fragrant Satchel"
+    },
+    {
+        "rgbCode": "rgb(187,133,144)",
+        "Code": "BCP-0086",
+        "Name": "King's Cloak"
+    },
+    {
+        "rgbCode": "rgb(158,101,110)",
+        "Code": "BCP-0087",
+        "Name": "Cinnapink"
+    },
+    {
+        "rgbCode": "rgb(122,72,74)",
+        "Code": "BCP-0088",
+        "Name": "Casandra"
+    },
+    {
+        "rgbCode": "rgb(228,184,186)",
+        "Code": "BCP-0089",
+        "Name": "Star of Morning"
+    },
+    {
+        "rgbCode": "rgb(208,165,171)",
+        "Code": "BCP-0090",
+        "Name": "Moon Goddess"
+    },
+    {
+        "rgbCode": "rgb(192,142,147)",
+        "Code": "BCP-0091",
+        "Name": "Garnet Shadow"
+    },
+    {
+        "rgbCode": "rgb(169,112,115)",
+        "Code": "BCP-0092",
+        "Name": "Fresh Day"
+    },
+    {
+        "rgbCode": "rgb(158,100,102)",
+        "Code": "BCP-0093",
+        "Name": "Herald of Spring"
+    },
+    {
+        "rgbCode": "rgb(128,82,83)",
+        "Code": "BCP-0094",
+        "Name": "Starlet"
+    },
+    {
+        "rgbCode": "rgb(114,61,64)",
+        "Code": "BCP-0095",
+        "Name": "Queen's Rose"
+    },
+    {
+        "rgbCode": "rgb(239,222,218)",
+        "Code": "BCP-0096",
+        "Name": "Morning Side"
+    },
+    {
+        "rgbCode": "rgb(220,191,194)",
+        "Code": "BCP-0097",
+        "Name": "Odyssey Plum"
+    },
+    {
+        "rgbCode": "rgb(183,152,159)",
+        "Code": "BCP-0098",
+        "Name": "Lockhart"
+    },
+    {
+        "rgbCode": "rgb(159,125,133)",
+        "Code": "BCP-0099",
+        "Name": "Lover's Tryst"
+    },
+    {
+        "rgbCode": "rgb(135,99,103)",
+        "Code": "BCP-0100",
+        "Name": "Whimsy"
+    },
+    {
+        "rgbCode": "rgb(116,65,67)",
+        "Code": "BCP-0101",
+        "Name": "Fruitful Orchard"
+    },
+    {
+        "rgbCode": "rgb(104,66,63)",
+        "Code": "BCP-0102",
+        "Name": "Earthly Pleasure"
+    },
+    {
+        "rgbCode": "rgb(214,182,188)",
+        "Code": "BCP-0103",
+        "Name": "Hosanna"
+    },
+    {
+        "rgbCode": "rgb(205,171,179)",
+        "Code": "BCP-0104",
+        "Name": "Victorian Cottage"
+    },
+    {
+        "rgbCode": "rgb(190,154,163)",
+        "Code": "BCP-0105",
+        "Name": "Harvest Blessing"
+    },
+    {
+        "rgbCode": "rgb(166,124,136)",
+        "Code": "BCP-0106",
+        "Name": "Rare Find"
+    },
+    {
+        "rgbCode": "rgb(140,95,101)",
+        "Code": "BCP-0107",
+        "Name": "Prosperity"
+    },
+    {
+        "rgbCode": "rgb(118,69,79)",
+        "Code": "BCP-0108",
+        "Name": "Exotica"
+    },
+    {
+        "rgbCode": "rgb(98,64,69)",
+        "Code": "BCP-0109",
+        "Name": "Kung Fu"
+    },
+    {
+        "rgbCode": "rgb(230,197,202)",
+        "Code": "BCP-0110",
+        "Name": "Baby Bunting"
+    },
+    {
+        "rgbCode": "rgb(221,180,187)",
+        "Code": "BCP-0111",
+        "Name": "Acadia Bloom"
+    },
+    {
+        "rgbCode": "rgb(200,161,171)",
+        "Code": "BCP-0112",
+        "Name": "Lady Flower"
+    },
+    {
+        "rgbCode": "rgb(175,132,145)",
+        "Code": "BCP-0113",
+        "Name": "Punch of Pink"
+    },
+    {
+        "rgbCode": "rgb(150,105,115)",
+        "Code": "BCP-0114",
+        "Name": "Montrose Rose"
+    },
+    {
+        "rgbCode": "rgb(110,61,73)",
+        "Code": "BCP-0115",
+        "Name": "Sophistication"
+    },
+    {
+        "rgbCode": "rgb(119,61,71)",
+        "Code": "BCP-0116",
+        "Name": "Cordova Burgundy"
+    },
+    {
+        "rgbCode": "rgb(237,212,207)",
+        "Code": "BCP-0117",
+        "Name": "Satin Slipper"
+    },
+    {
+        "rgbCode": "rgb(223,188,184)",
+        "Code": "BCP-0118",
+        "Name": "Miniature Posey"
+    },
+    {
+        "rgbCode": "rgb(193,149,147)",
+        "Code": "BCP-0119",
+        "Name": "Angela Canyon"
+    },
+    {
+        "rgbCode": "rgb(162,110,104)",
+        "Code": "BCP-0120",
+        "Name": "Summer's Eve"
+    },
+    {
+        "rgbCode": "rgb(129,74,66)",
+        "Code": "BCP-0121",
+        "Name": "Savanna"
+    },
+    {
+        "rgbCode": "rgb(124,67,54)",
+        "Code": "BCP-0122",
+        "Name": "Outrageous"
+    },
+    {
+        "rgbCode": "rgb(119,65,51)",
+        "Code": "BCP-0123",
+        "Name": "Monterey Chestnut"
+    },
+    {
+        "rgbCode": "rgb(236,221,212)",
+        "Code": "BCP-0124",
+        "Name": "Merlins Beard"
+    },
+    {
+        "rgbCode": "rgb(222,199,191)",
+        "Code": "BCP-0125",
+        "Name": "Pout"
+    },
+    {
+        "rgbCode": "rgb(208,182,175)",
+        "Code": "BCP-0126",
+        "Name": "Sauterne"
+    },
+    {
+        "rgbCode": "rgb(187,156,148)",
+        "Code": "BCP-0127",
+        "Name": "Andes Ash"
+    },
+    {
+        "rgbCode": "rgb(165,131,124)",
+        "Code": "BCP-0128",
+        "Name": "Rocky Mountain"
+    },
+    {
+        "rgbCode": "rgb(138,101,91)",
+        "Code": "BCP-0129",
+        "Name": "Arrowhead"
+    },
+    {
+        "rgbCode": "rgb(110,74,62)",
+        "Code": "BCP-0130",
+        "Name": "Evolution"
+    },
+    {
+        "rgbCode": "rgb(232,217,208)",
+        "Code": "BCP-0131",
+        "Name": "Cliffswallow"
+    },
+    {
+        "rgbCode": "rgb(214,191,182)",
+        "Code": "BCP-0132",
+        "Name": "Summer Beige"
+    },
+    {
+        "rgbCode": "rgb(182,156,148)",
+        "Code": "BCP-0133",
+        "Name": "Natchez"
+    },
+    {
+        "rgbCode": "rgb(163,137,128)",
+        "Code": "BCP-0134",
+        "Name": "Baby Sprout"
+    },
+    {
+        "rgbCode": "rgb(149,120,110)",
+        "Code": "BCP-0135",
+        "Name": "Emerging Leaf"
+    },
+    {
+        "rgbCode": "rgb(125,95,84)",
+        "Code": "BCP-0136",
+        "Name": "Amazon Mist"
+    },
+    {
+        "rgbCode": "rgb(101,73,60)",
+        "Code": "BCP-0137",
+        "Name": "Hideaway"
+    },
+    {
+        "rgbCode": "rgb(214,197,188)",
+        "Code": "BCP-0138",
+        "Name": "Coconut Macaroon"
+    },
+    {
+        "rgbCode": "rgb(201,183,174)",
+        "Code": "BCP-0139",
+        "Name": "Souffl\u00e9"
+    },
+    {
+        "rgbCode": "rgb(178,157,149)",
+        "Code": "BCP-0140",
+        "Name": "Cozy Cover"
+    },
+    {
+        "rgbCode": "rgb(161,138,129)",
+        "Code": "BCP-0141",
+        "Name": "Bush Buck"
+    },
+    {
+        "rgbCode": "rgb(121,99,89)",
+        "Code": "BCP-0142",
+        "Name": "Ranch House"
+    },
+    {
+        "rgbCode": "rgb(100,79,70)",
+        "Code": "BCP-0143",
+        "Name": "Connoisseur"
+    },
+    {
+        "rgbCode": "rgb(76,62,57)",
+        "Code": "BCP-0144",
+        "Name": "Film Noir"
+    },
+    {
+        "rgbCode": "rgb(236,218,208)",
+        "Code": "BCP-0145",
+        "Name": "Flax Flower"
+    },
+    {
+        "rgbCode": "rgb(228,209,199)",
+        "Code": "BCP-0146",
+        "Name": "Truffles"
+    },
+    {
+        "rgbCode": "rgb(206,182,169)",
+        "Code": "BCP-0147",
+        "Name": "Cave Painting"
+    },
+    {
+        "rgbCode": "rgb(196,165,150)",
+        "Code": "BCP-0148",
+        "Name": "Oak Plank"
+    },
+    {
+        "rgbCode": "rgb(173,140,125)",
+        "Code": "BCP-0149",
+        "Name": "Pavilion Tan"
+    },
+    {
+        "rgbCode": "rgb(145,108,94)",
+        "Code": "BCP-0150",
+        "Name": "Temptation"
+    },
+    {
+        "rgbCode": "rgb(113,81,67)",
+        "Code": "BCP-0151",
+        "Name": "Coffee Shop"
+    },
+    {
+        "rgbCode": "rgb(235,211,193)",
+        "Code": "BCP-0152",
+        "Name": "Flirt"
+    },
+    {
+        "rgbCode": "rgb(226,199,181)",
+        "Code": "BCP-0153",
+        "Name": "Take-Out"
+    },
+    {
+        "rgbCode": "rgb(218,187,164)",
+        "Code": "BCP-0154",
+        "Name": "Romulus"
+    },
+    {
+        "rgbCode": "rgb(201,161,135)",
+        "Code": "BCP-0155",
+        "Name": "Cowhide"
+    },
+    {
+        "rgbCode": "rgb(176,134,109)",
+        "Code": "BCP-0156",
+        "Name": "Skinny Dip"
+    },
+    {
+        "rgbCode": "rgb(158,111,84)",
+        "Code": "BCP-0157",
+        "Name": "Dodge Pole"
+    },
+    {
+        "rgbCode": "rgb(131,92,69)",
+        "Code": "BCP-0158",
+        "Name": "Mover and Shaker"
+    },
+    {
+        "rgbCode": "rgb(238,219,203)",
+        "Code": "BCP-0159",
+        "Name": "Senior Moment"
+    },
+    {
+        "rgbCode": "rgb(231,202,180)",
+        "Code": "BCP-0160",
+        "Name": "Kingdom's Keys"
+    },
+    {
+        "rgbCode": "rgb(220,186,163)",
+        "Code": "BCP-0161",
+        "Name": "Tiny Calf"
+    },
+    {
+        "rgbCode": "rgb(199,167,146)",
+        "Code": "BCP-0162",
+        "Name": "Apple Pie"
+    },
+    {
+        "rgbCode": "rgb(171,138,116)",
+        "Code": "BCP-0163",
+        "Name": "Camel Train"
+    },
+    {
+        "rgbCode": "rgb(159,122,97)",
+        "Code": "BCP-0164",
+        "Name": "Veldrift"
+    },
+    {
+        "rgbCode": "rgb(147,111,86)",
+        "Code": "BCP-0165",
+        "Name": "Cavern Sand"
+    },
+    {
+        "rgbCode": "rgb(243,225,204)",
+        "Code": "BCP-0166",
+        "Name": "Pastel Day"
+    },
+    {
+        "rgbCode": "rgb(228,203,180)",
+        "Code": "BCP-0167",
+        "Name": "First Date"
+    },
+    {
+        "rgbCode": "rgb(217,186,162)",
+        "Code": "BCP-0168",
+        "Name": "Candle Light"
+    },
+    {
+        "rgbCode": "rgb(205,169,141)",
+        "Code": "BCP-0169",
+        "Name": "Fossil Tan"
+    },
+    {
+        "rgbCode": "rgb(186,144,113)",
+        "Code": "BCP-0170",
+        "Name": "Blonde Shell"
+    },
+    {
+        "rgbCode": "rgb(156,114,84)",
+        "Code": "BCP-0171",
+        "Name": "Golden Glove"
+    },
+    {
+        "rgbCode": "rgb(133,95,70)",
+        "Code": "BCP-0172",
+        "Name": "Chasm"
+    },
+    {
+        "rgbCode": "rgb(234,217,200)",
+        "Code": "BCP-0173",
+        "Name": "Pale Gingersnap"
+    },
+    {
+        "rgbCode": "rgb(225,204,184)",
+        "Code": "BCP-0174",
+        "Name": "Maple Pecan"
+    },
+    {
+        "rgbCode": "rgb(190,165,141)",
+        "Code": "BCP-0175",
+        "Name": "3am Latte"
+    },
+    {
+        "rgbCode": "rgb(174,147,124)",
+        "Code": "BCP-0176",
+        "Name": "Country Dweller"
+    },
+    {
+        "rgbCode": "rgb(155,124,98)",
+        "Code": "BCP-0177",
+        "Name": "Weaver's Tool"
+    },
+    {
+        "rgbCode": "rgb(136,109,85)",
+        "Code": "BCP-0178",
+        "Name": "Cupcake"
+    },
+    {
+        "rgbCode": "rgb(126,96,71)",
+        "Code": "BCP-0179",
+        "Name": "Fall in Season"
+    },
+    {
+        "rgbCode": "rgb(234,221,208)",
+        "Code": "BCP-0180",
+        "Name": "Fresh Linen"
+    },
+    {
+        "rgbCode": "rgb(222,205,191)",
+        "Code": "BCP-0181",
+        "Name": "Ageless"
+    },
+    {
+        "rgbCode": "rgb(214,196,180)",
+        "Code": "BCP-0182",
+        "Name": "Ivory Ridge"
+    },
+    {
+        "rgbCode": "rgb(200,181,164)",
+        "Code": "BCP-0183",
+        "Name": "Moth Wing"
+    },
+    {
+        "rgbCode": "rgb(182,161,141)",
+        "Code": "BCP-0184",
+        "Name": "Macadamia Brown"
+    },
+    {
+        "rgbCode": "rgb(137,112,91)",
+        "Code": "BCP-0185",
+        "Name": "Noble Crown"
+    },
+    {
+        "rgbCode": "rgb(108,88,73)",
+        "Code": "BCP-0186",
+        "Name": "Christmas Ornament"
+    },
+    {
+        "rgbCode": "rgb(236,222,208)",
+        "Code": "BCP-0187",
+        "Name": "White Lightning"
+    },
+    {
+        "rgbCode": "rgb(202,183,168)",
+        "Code": "BCP-0188",
+        "Name": "Baguette"
+    },
+    {
+        "rgbCode": "rgb(186,167,150)",
+        "Code": "BCP-0189",
+        "Name": "Delicate Honeysweet"
+    },
+    {
+        "rgbCode": "rgb(170,148,131)",
+        "Code": "BCP-0190",
+        "Name": "Village Crier"
+    },
+    {
+        "rgbCode": "rgb(139,116,99)",
+        "Code": "BCP-0191",
+        "Name": "Dusty Path"
+    },
+    {
+        "rgbCode": "rgb(114,92,76)",
+        "Code": "BCP-0192",
+        "Name": "Dapper"
+    },
+    {
+        "rgbCode": "rgb(114,91,73)",
+        "Code": "BCP-0193",
+        "Name": "Alpha Male"
+    },
+    {
+        "rgbCode": "rgb(228,219,208)",
+        "Code": "BCP-0194",
+        "Name": "August Moon"
+    },
+    {
+        "rgbCode": "rgb(217,207,196)",
+        "Code": "BCP-0195",
+        "Name": "Mossy Shade"
+    },
+    {
+        "rgbCode": "rgb(205,194,182)",
+        "Code": "BCP-0196",
+        "Name": "Overgrown"
+    },
+    {
+        "rgbCode": "rgb(191,179,166)",
+        "Code": "BCP-0197",
+        "Name": "Thistle Gray"
+    },
+    {
+        "rgbCode": "rgb(168,153,139)",
+        "Code": "BCP-0198",
+        "Name": "Young Colt"
+    },
+    {
+        "rgbCode": "rgb(133,117,101)",
+        "Code": "BCP-0199",
+        "Name": "Sandy Shoes"
+    },
+    {
+        "rgbCode": "rgb(99,86,74)",
+        "Code": "BCP-0200",
+        "Name": "Stony Field"
+    },
+    {
+        "rgbCode": "rgb(235,228,215)",
+        "Code": "BCP-0201",
+        "Name": "Sparkling Champagne"
+    },
+    {
+        "rgbCode": "rgb(220,210,197)",
+        "Code": "BCP-0202",
+        "Name": "Powder Cake"
+    },
+    {
+        "rgbCode": "rgb(206,196,183)",
+        "Code": "BCP-0203",
+        "Name": "Whale Bone"
+    },
+    {
+        "rgbCode": "rgb(182,171,159)",
+        "Code": "BCP-0204",
+        "Name": "Marshy Habitat"
+    },
+    {
+        "rgbCode": "rgb(166,154,142)",
+        "Code": "BCP-0205",
+        "Name": "Wood Shadow"
+    },
+    {
+        "rgbCode": "rgb(130,118,103)",
+        "Code": "BCP-0206",
+        "Name": "Thatched Cottage"
+    },
+    {
+        "rgbCode": "rgb(97,87,76)",
+        "Code": "BCP-0207",
+        "Name": "Ares Shadow"
+    },
+    {
+        "rgbCode": "rgb(233,227,216)",
+        "Code": "BCP-0208",
+        "Name": "Umber Style"
+    },
+    {
+        "rgbCode": "rgb(220,211,201)",
+        "Code": "BCP-0209",
+        "Name": "Polished"
+    },
+    {
+        "rgbCode": "rgb(204,196,185)",
+        "Code": "BCP-0210",
+        "Name": "Hidden Cove"
+    },
+    {
+        "rgbCode": "rgb(190,179,167)",
+        "Code": "BCP-0211",
+        "Name": "Light Lichen"
+    },
+    {
+        "rgbCode": "rgb(166,153,140)",
+        "Code": "BCP-0212",
+        "Name": "Big Spender"
+    },
+    {
+        "rgbCode": "rgb(127,114,102)",
+        "Code": "BCP-0213",
+        "Name": "Coastal Fog"
+    },
+    {
+        "rgbCode": "rgb(98,87,78)",
+        "Code": "BCP-0214",
+        "Name": "Wildwood"
+    },
+    {
+        "rgbCode": "rgb(227,219,206)",
+        "Code": "BCP-0215",
+        "Name": "Herare White"
+    },
+    {
+        "rgbCode": "rgb(219,209,194)",
+        "Code": "BCP-0216",
+        "Name": "Earthling"
+    },
+    {
+        "rgbCode": "rgb(205,194,178)",
+        "Code": "BCP-0217",
+        "Name": "Oak Tone"
+    },
+    {
+        "rgbCode": "rgb(165,155,143)",
+        "Code": "BCP-0218",
+        "Name": "Drifting Sand"
+    },
+    {
+        "rgbCode": "rgb(128,116,103)",
+        "Code": "BCP-0219",
+        "Name": "Camel's Hump"
+    },
+    {
+        "rgbCode": "rgb(111,99,86)",
+        "Code": "BCP-0220",
+        "Name": "Monk's Cloth"
+    },
+    {
+        "rgbCode": "rgb(93,81,69)",
+        "Code": "BCP-0221",
+        "Name": "Brown Suede"
+    },
+    {
+        "rgbCode": "rgb(228,220,201)",
+        "Code": "BCP-0222",
+        "Name": "Au Natural"
+    },
+    {
+        "rgbCode": "rgb(226,214,197)",
+        "Code": "BCP-0223",
+        "Name": "White Elephant"
+    },
+    {
+        "rgbCode": "rgb(215,203,184)",
+        "Code": "BCP-0224",
+        "Name": "Pebblebrook"
+    },
+    {
+        "rgbCode": "rgb(190,176,156)",
+        "Code": "BCP-0225",
+        "Name": "Roman Ruins"
+    },
+    {
+        "rgbCode": "rgb(175,161,143)",
+        "Code": "BCP-0226",
+        "Name": "Sedge"
+    },
+    {
+        "rgbCode": "rgb(138,123,105)",
+        "Code": "BCP-0227",
+        "Name": "Moonscape"
+    },
+    {
+        "rgbCode": "rgb(105,92,75)",
+        "Code": "BCP-0228",
+        "Name": "Hannover Hills"
+    },
+    {
+        "rgbCode": "rgb(225,218,206)",
+        "Code": "BCP-0229",
+        "Name": "Feather Stone"
+    },
+    {
+        "rgbCode": "rgb(217,208,196)",
+        "Code": "BCP-0230",
+        "Name": "Harrow Gate"
+    },
+    {
+        "rgbCode": "rgb(209,198,184)",
+        "Code": "BCP-0231",
+        "Name": "Desert Mirage"
+    },
+    {
+        "rgbCode": "rgb(193,182,168)",
+        "Code": "BCP-0232",
+        "Name": "Frond"
+    },
+    {
+        "rgbCode": "rgb(172,157,140)",
+        "Code": "BCP-0233",
+        "Name": "Deep Marsh"
+    },
+    {
+        "rgbCode": "rgb(135,119,99)",
+        "Code": "BCP-0234",
+        "Name": "Industrial Strength"
+    },
+    {
+        "rgbCode": "rgb(104,90,74)",
+        "Code": "BCP-0235",
+        "Name": "Black Heath"
+    },
+    {
+        "rgbCode": "rgb(232,208,183)",
+        "Code": "BCP-0236",
+        "Name": "Sunday Gloves"
+    },
+    {
+        "rgbCode": "rgb(225,196,168)",
+        "Code": "BCP-0237",
+        "Name": "Flan"
+    },
+    {
+        "rgbCode": "rgb(209,175,149)",
+        "Code": "BCP-0238",
+        "Name": "Crowned One"
+    },
+    {
+        "rgbCode": "rgb(186,153,125)",
+        "Code": "BCP-0239",
+        "Name": "Tailored Tan"
+    },
+    {
+        "rgbCode": "rgb(171,135,104)",
+        "Code": "BCP-0240",
+        "Name": "Spiced Rum"
+    },
+    {
+        "rgbCode": "rgb(156,118,88)",
+        "Code": "BCP-0241",
+        "Name": "Prince Paris"
+    },
+    {
+        "rgbCode": "rgb(140,104,73)",
+        "Code": "BCP-0242",
+        "Name": "Rare Happening"
+    },
+    {
+        "rgbCode": "rgb(234,202,169)",
+        "Code": "BCP-0243",
+        "Name": "Frozen Custard"
+    },
+    {
+        "rgbCode": "rgb(227,190,154)",
+        "Code": "BCP-0244",
+        "Name": "Mulled Cider"
+    },
+    {
+        "rgbCode": "rgb(210,169,132)",
+        "Code": "BCP-0245",
+        "Name": "Caramel Cloud"
+    },
+    {
+        "rgbCode": "rgb(201,157,114)",
+        "Code": "BCP-0246",
+        "Name": "Cinnamon Toast"
+    },
+    {
+        "rgbCode": "rgb(184,136,95)",
+        "Code": "BCP-0247",
+        "Name": "Apple Crisp"
+    },
+    {
+        "rgbCode": "rgb(177,131,94)",
+        "Code": "BCP-0248",
+        "Name": "Safari Sun"
+    },
+    {
+        "rgbCode": "rgb(166,120,83)",
+        "Code": "BCP-0249",
+        "Name": "Butterscotch Mousse"
+    },
+    {
+        "rgbCode": "rgb(244,227,203)",
+        "Code": "BCP-0250",
+        "Name": "Pumpkin Spice"
+    },
+    {
+        "rgbCode": "rgb(239,210,182)",
+        "Code": "BCP-0251",
+        "Name": "Alchemy"
+    },
+    {
+        "rgbCode": "rgb(225,194,162)",
+        "Code": "BCP-0252",
+        "Name": "October Bounty"
+    },
+    {
+        "rgbCode": "rgb(221,186,151)",
+        "Code": "BCP-0253",
+        "Name": "Honey Glow"
+    },
+    {
+        "rgbCode": "rgb(213,174,134)",
+        "Code": "BCP-0254",
+        "Name": "Living Large"
+    },
+    {
+        "rgbCode": "rgb(195,149,106)",
+        "Code": "BCP-0255",
+        "Name": "Back to Basics"
+    },
+    {
+        "rgbCode": "rgb(164,116,75)",
+        "Code": "BCP-0256",
+        "Name": "Crazy Horse"
+    },
+    {
+        "rgbCode": "rgb(234,212,187)",
+        "Code": "BCP-0257",
+        "Name": "Shortbread"
+    },
+    {
+        "rgbCode": "rgb(227,201,172)",
+        "Code": "BCP-0258",
+        "Name": "Classic Terra"
+    },
+    {
+        "rgbCode": "rgb(208,181,154)",
+        "Code": "BCP-0259",
+        "Name": "Persian Fable"
+    },
+    {
+        "rgbCode": "rgb(186,155,124)",
+        "Code": "BCP-0260",
+        "Name": "Cocoa Nib"
+    },
+    {
+        "rgbCode": "rgb(174,142,107)",
+        "Code": "BCP-0261",
+        "Name": "Tan Hide"
+    },
+    {
+        "rgbCode": "rgb(157,124,90)",
+        "Code": "BCP-0262",
+        "Name": "Log Cabin"
+    },
+    {
+        "rgbCode": "rgb(140,106,73)",
+        "Code": "BCP-0263",
+        "Name": "Country Charm"
+    },
+    {
+        "rgbCode": "rgb(228,209,184)",
+        "Code": "BCP-0264",
+        "Name": "Palest of Lemon"
+    },
+    {
+        "rgbCode": "rgb(223,198,169)",
+        "Code": "BCP-0265",
+        "Name": "Marshmallow Mist"
+    },
+    {
+        "rgbCode": "rgb(210,183,152)",
+        "Code": "BCP-0266",
+        "Name": "October Harvest"
+    },
+    {
+        "rgbCode": "rgb(190,158,124)",
+        "Code": "BCP-0267",
+        "Name": "Season Finale"
+    },
+    {
+        "rgbCode": "rgb(167,130,91)",
+        "Code": "BCP-0268",
+        "Name": "Rich Oak"
+    },
+    {
+        "rgbCode": "rgb(140,106,69)",
+        "Code": "BCP-0269",
+        "Name": "Sahara Wind"
+    },
+    {
+        "rgbCode": "rgb(129,99,68)",
+        "Code": "BCP-0270",
+        "Name": "Graham Crust"
+    },
+    {
+        "rgbCode": "rgb(232,219,204)",
+        "Code": "BCP-0271",
+        "Name": "Clover Honey"
+    },
+    {
+        "rgbCode": "rgb(220,205,186)",
+        "Code": "BCP-0272",
+        "Name": "Mineral Water"
+    },
+    {
+        "rgbCode": "rgb(214,198,178)",
+        "Code": "BCP-0273",
+        "Name": "Sandstone Palette"
+    },
+    {
+        "rgbCode": "rgb(208,184,156)",
+        "Code": "BCP-0274",
+        "Name": "Polished Marble"
+    },
+    {
+        "rgbCode": "rgb(186,160,130)",
+        "Code": "BCP-0275",
+        "Name": "Highlight"
+    },
+    {
+        "rgbCode": "rgb(162,134,103)",
+        "Code": "BCP-0276",
+        "Name": "Gold Taffeta"
+    },
+    {
+        "rgbCode": "rgb(135,108,79)",
+        "Code": "BCP-0277",
+        "Name": "Golden Freesia"
+    },
+    {
+        "rgbCode": "rgb(224,206,185)",
+        "Code": "BCP-0278",
+        "Name": "Barberry Sand"
+    },
+    {
+        "rgbCode": "rgb(211,192,166)",
+        "Code": "BCP-0279",
+        "Name": "Garden Country"
+    },
+    {
+        "rgbCode": "rgb(196,175,148)",
+        "Code": "BCP-0280",
+        "Name": "Wicker Basket"
+    },
+    {
+        "rgbCode": "rgb(189,166,137)",
+        "Code": "BCP-0281",
+        "Name": "Olive Gold"
+    },
+    {
+        "rgbCode": "rgb(181,153,119)",
+        "Code": "BCP-0282",
+        "Name": "Vintage Gold"
+    },
+    {
+        "rgbCode": "rgb(159,133,99)",
+        "Code": "BCP-0283",
+        "Name": "Historic Town"
+    },
+    {
+        "rgbCode": "rgb(120,94,62)",
+        "Code": "BCP-0284",
+        "Name": "Queen Lioness"
+    },
+    {
+        "rgbCode": "rgb(240,226,208)",
+        "Code": "BCP-0285",
+        "Name": "Eugenia"
+    },
+    {
+        "rgbCode": "rgb(233,215,194)",
+        "Code": "BCP-0286",
+        "Name": "Yellow Page"
+    },
+    {
+        "rgbCode": "rgb(223,200,175)",
+        "Code": "BCP-0287",
+        "Name": "Muslin Tint"
+    },
+    {
+        "rgbCode": "rgb(221,195,161)",
+        "Code": "BCP-0288",
+        "Name": "Golden Buff"
+    },
+    {
+        "rgbCode": "rgb(199,171,136)",
+        "Code": "BCP-0289",
+        "Name": "Prairie Sand"
+    },
+    {
+        "rgbCode": "rgb(163,133,98)",
+        "Code": "BCP-0290",
+        "Name": "Key Keeper"
+    },
+    {
+        "rgbCode": "rgb(140,112,79)",
+        "Code": "BCP-0291",
+        "Name": "Rutherford"
+    },
+    {
+        "rgbCode": "rgb(241,231,211)",
+        "Code": "BCP-0292",
+        "Name": "Private White\n(Old Color Name: Privileged)"
+    },
+    {
+        "rgbCode": "rgb(230,211,184)",
+        "Code": "BCP-0293",
+        "Name": "What Inheritance?"
+    },
+    {
+        "rgbCode": "rgb(226,203,174)",
+        "Code": "BCP-0294",
+        "Name": "Rub Elbows"
+    },
+    {
+        "rgbCode": "rgb(213,189,158)",
+        "Code": "BCP-0295",
+        "Name": "Spanish Cream"
+    },
+    {
+        "rgbCode": "rgb(200,170,135)",
+        "Code": "BCP-0296",
+        "Name": "Only Yesterday"
+    },
+    {
+        "rgbCode": "rgb(176,148,112)",
+        "Code": "BCP-0297",
+        "Name": "Gold Season"
+    },
+    {
+        "rgbCode": "rgb(138,109,72)",
+        "Code": "BCP-0298",
+        "Name": "Brocade"
+    },
+    {
+        "rgbCode": "rgb(242,229,209)",
+        "Code": "BCP-0299",
+        "Name": "Allison Lace"
+    },
+    {
+        "rgbCode": "rgb(238,221,199)",
+        "Code": "BCP-0300",
+        "Name": "Ivory Parchment"
+    },
+    {
+        "rgbCode": "rgb(225,203,174)",
+        "Code": "BCP-0301",
+        "Name": "Corinthian Pillar"
+    },
+    {
+        "rgbCode": "rgb(184,159,127)",
+        "Code": "BCP-0302",
+        "Name": "Rich Reward"
+    },
+    {
+        "rgbCode": "rgb(176,148,110)",
+        "Code": "BCP-0303",
+        "Name": "Bauhaus Gold"
+    },
+    {
+        "rgbCode": "rgb(157,130,93)",
+        "Code": "BCP-0304",
+        "Name": "Gold Tangiers"
+    },
+    {
+        "rgbCode": "rgb(129,102,68)",
+        "Code": "BCP-0305",
+        "Name": "Golden Summer"
+    },
+    {
+        "rgbCode": "rgb(243,230,210)",
+        "Code": "BCP-0306",
+        "Name": "Saffron Tint"
+    },
+    {
+        "rgbCode": "rgb(242,223,198)",
+        "Code": "BCP-0307",
+        "Name": "Putting Bench"
+    },
+    {
+        "rgbCode": "rgb(225,200,164)",
+        "Code": "BCP-0308",
+        "Name": "Coconut Crumble"
+    },
+    {
+        "rgbCode": "rgb(207,181,146)",
+        "Code": "BCP-0309",
+        "Name": "Palmetto Bluff"
+    },
+    {
+        "rgbCode": "rgb(187,160,122)",
+        "Code": "BCP-0310",
+        "Name": "Sassafras"
+    },
+    {
+        "rgbCode": "rgb(174,144,103)",
+        "Code": "BCP-0311",
+        "Name": "Life Exotic"
+    },
+    {
+        "rgbCode": "rgb(142,114,75)",
+        "Code": "BCP-0312",
+        "Name": "September Gold"
+    },
+    {
+        "rgbCode": "rgb(234,219,196)",
+        "Code": "BCP-0313",
+        "Name": "Chic Magnet"
+    },
+    {
+        "rgbCode": "rgb(228,210,185)",
+        "Code": "BCP-0314",
+        "Name": "Trade Secret"
+    },
+    {
+        "rgbCode": "rgb(220,199,170)",
+        "Code": "BCP-0315",
+        "Name": "Peaceable Kingdom"
+    },
+    {
+        "rgbCode": "rgb(214,193,159)",
+        "Code": "BCP-0316",
+        "Name": "Golden Lake"
+    },
+    {
+        "rgbCode": "rgb(195,171,135)",
+        "Code": "BCP-0317",
+        "Name": "Green Gold"
+    },
+    {
+        "rgbCode": "rgb(172,143,103)",
+        "Code": "BCP-0318",
+        "Name": "There's No Place Like Home"
+    },
+    {
+        "rgbCode": "rgb(137,111,74)",
+        "Code": "BCP-0319",
+        "Name": "Herald's Trumpet"
+    },
+    {
+        "rgbCode": "rgb(237,224,205)",
+        "Code": "BCP-0320",
+        "Name": "Floating Island"
+    },
+    {
+        "rgbCode": "rgb(226,208,180)",
+        "Code": "BCP-0321",
+        "Name": "Hephaestus"
+    },
+    {
+        "rgbCode": "rgb(218,197,164)",
+        "Code": "BCP-0322",
+        "Name": "Gabriel's Light"
+    },
+    {
+        "rgbCode": "rgb(187,164,125)",
+        "Code": "BCP-0323",
+        "Name": "Star of Gold"
+    },
+    {
+        "rgbCode": "rgb(173,147,105)",
+        "Code": "BCP-0324",
+        "Name": "Upon Reflection"
+    },
+    {
+        "rgbCode": "rgb(145,121,82)",
+        "Code": "BCP-0325",
+        "Name": "Welcome Home"
+    },
+    {
+        "rgbCode": "rgb(127,105,69)",
+        "Code": "BCP-0326",
+        "Name": "Bambino"
+    },
+    {
+        "rgbCode": "rgb(235,222,202)",
+        "Code": "BCP-0327",
+        "Name": "Tawny Daylilly"
+    },
+    {
+        "rgbCode": "rgb(224,207,182)",
+        "Code": "BCP-0328",
+        "Name": "Land of Trees"
+    },
+    {
+        "rgbCode": "rgb(214,194,165)",
+        "Code": "BCP-0329",
+        "Name": "Knit Cardigan"
+    },
+    {
+        "rgbCode": "rgb(206,187,155)",
+        "Code": "BCP-0330",
+        "Name": "Castaway Beach"
+    },
+    {
+        "rgbCode": "rgb(193,173,138)",
+        "Code": "BCP-0331",
+        "Name": "Refined"
+    },
+    {
+        "rgbCode": "rgb(157,137,100)",
+        "Code": "BCP-0332",
+        "Name": "All Nighter"
+    },
+    {
+        "rgbCode": "rgb(122,103,72)",
+        "Code": "BCP-0333",
+        "Name": "Grasslands"
+    },
+    {
+        "rgbCode": "rgb(230,220,203)",
+        "Code": "BCP-0334",
+        "Name": "Sedona"
+    },
+    {
+        "rgbCode": "rgb(224,209,191)",
+        "Code": "BCP-0335",
+        "Name": "Illusive Dream"
+    },
+    {
+        "rgbCode": "rgb(194,181,163)",
+        "Code": "BCP-0336",
+        "Name": "Soft Leather"
+    },
+    {
+        "rgbCode": "rgb(171,156,137)",
+        "Code": "BCP-0337",
+        "Name": "Urban Charm"
+    },
+    {
+        "rgbCode": "rgb(157,140,116)",
+        "Code": "BCP-0338",
+        "Name": "Whipcord"
+    },
+    {
+        "rgbCode": "rgb(141,126,101)",
+        "Code": "BCP-0339",
+        "Name": "Ceramic Pot"
+    },
+    {
+        "rgbCode": "rgb(98,84,65)",
+        "Code": "BCP-0340",
+        "Name": "Nightfall\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(229,221,202)",
+        "Code": "BCP-0341",
+        "Name": "Loch Ness"
+    },
+    {
+        "rgbCode": "rgb(213,202,182)",
+        "Code": "BCP-0342",
+        "Name": "Velum Smoke"
+    },
+    {
+        "rgbCode": "rgb(205,193,173)",
+        "Code": "BCP-0343",
+        "Name": "Cantera"
+    },
+    {
+        "rgbCode": "rgb(198,184,161)",
+        "Code": "BCP-0344",
+        "Name": "Courtyard"
+    },
+    {
+        "rgbCode": "rgb(181,166,140)",
+        "Code": "BCP-0345",
+        "Name": "Travertine Path"
+    },
+    {
+        "rgbCode": "rgb(148,131,103)",
+        "Code": "BCP-0346",
+        "Name": "Northeast Trail"
+    },
+    {
+        "rgbCode": "rgb(108,94,72)",
+        "Code": "BCP-0347",
+        "Name": "Jungle Cover"
+    },
+    {
+        "rgbCode": "rgb(219,208,189)",
+        "Code": "BCP-0348",
+        "Name": "Dried Grass"
+    },
+    {
+        "rgbCode": "rgb(206,193,171)",
+        "Code": "BCP-0349",
+        "Name": "Reseda"
+    },
+    {
+        "rgbCode": "rgb(193,179,156)",
+        "Code": "BCP-0350",
+        "Name": "Helen of Troy"
+    },
+    {
+        "rgbCode": "rgb(166,150,124)",
+        "Code": "BCP-0351",
+        "Name": "Mohalla"
+    },
+    {
+        "rgbCode": "rgb(145,132,106)",
+        "Code": "BCP-0352",
+        "Name": "Shagbark Olive"
+    },
+    {
+        "rgbCode": "rgb(122,105,76)",
+        "Code": "BCP-0353",
+        "Name": "Becker Gold"
+    },
+    {
+        "rgbCode": "rgb(118,103,73)",
+        "Code": "BCP-0354",
+        "Name": "Austere"
+    },
+    {
+        "rgbCode": "rgb(244,240,230)",
+        "Code": "BCP-0355",
+        "Name": "Twinkle Twinkle"
+    },
+    {
+        "rgbCode": "rgb(238,232,219)",
+        "Code": "BCP-0356",
+        "Name": "Moth Mist"
+    },
+    {
+        "rgbCode": "rgb(221,216,201)",
+        "Code": "BCP-0357",
+        "Name": "Moss Island"
+    },
+    {
+        "rgbCode": "rgb(200,189,168)",
+        "Code": "BCP-0358",
+        "Name": "Silky Green"
+    },
+    {
+        "rgbCode": "rgb(162,147,117)",
+        "Code": "BCP-0359",
+        "Name": "Green Sleeves"
+    },
+    {
+        "rgbCode": "rgb(141,125,94)",
+        "Code": "BCP-0360",
+        "Name": "Land Before Time"
+    },
+    {
+        "rgbCode": "rgb(116,102,74)",
+        "Code": "BCP-0361",
+        "Name": "Georgia on My Mind"
+    },
+    {
+        "rgbCode": "rgb(238,229,214)",
+        "Code": "BCP-0362",
+        "Name": "Pale Quartz"
+    },
+    {
+        "rgbCode": "rgb(225,214,192)",
+        "Code": "BCP-0363",
+        "Name": "Mission Hills"
+    },
+    {
+        "rgbCode": "rgb(206,193,166)",
+        "Code": "BCP-0364",
+        "Name": "Stone Hearth"
+    },
+    {
+        "rgbCode": "rgb(161,146,118)",
+        "Code": "BCP-0365",
+        "Name": "Abbey Stone"
+    },
+    {
+        "rgbCode": "rgb(145,128,96)",
+        "Code": "BCP-0366",
+        "Name": "Owlet"
+    },
+    {
+        "rgbCode": "rgb(129,114,85)",
+        "Code": "BCP-0367",
+        "Name": "Chocolate Velvet"
+    },
+    {
+        "rgbCode": "rgb(119,103,73)",
+        "Code": "BCP-0368",
+        "Name": "Folk Tales"
+    },
+    {
+        "rgbCode": "rgb(220,214,201)",
+        "Code": "BCP-0369",
+        "Name": "Saturnia"
+    },
+    {
+        "rgbCode": "rgb(201,195,179)",
+        "Code": "BCP-0370",
+        "Name": "Palatine"
+    },
+    {
+        "rgbCode": "rgb(192,188,173)",
+        "Code": "BCP-0371",
+        "Name": "Fiorito"
+    },
+    {
+        "rgbCode": "rgb(173,164,144)",
+        "Code": "BCP-0372",
+        "Name": "Historic Shade"
+    },
+    {
+        "rgbCode": "rgb(144,135,112)",
+        "Code": "BCP-0373",
+        "Name": "Burning Idea"
+    },
+    {
+        "rgbCode": "rgb(113,104,84)",
+        "Code": "BCP-0374",
+        "Name": "Candle Wax"
+    },
+    {
+        "rgbCode": "rgb(102,92,66)",
+        "Code": "BCP-0375",
+        "Name": "African Queen"
+    },
+    {
+        "rgbCode": "rgb(234,224,209)",
+        "Code": "BCP-0376",
+        "Name": "Bleached Meadow"
+    },
+    {
+        "rgbCode": "rgb(209,201,179)",
+        "Code": "BCP-0377",
+        "Name": "Montezuma"
+    },
+    {
+        "rgbCode": "rgb(201,190,167)",
+        "Code": "BCP-0378",
+        "Name": "Garden Hedge"
+    },
+    {
+        "rgbCode": "rgb(160,152,131)",
+        "Code": "BCP-0379",
+        "Name": "Orestes"
+    },
+    {
+        "rgbCode": "rgb(143,133,110)",
+        "Code": "BCP-0380",
+        "Name": "Mirrored Willow"
+    },
+    {
+        "rgbCode": "rgb(129,120,96)",
+        "Code": "BCP-0381",
+        "Name": "Sonata"
+    },
+    {
+        "rgbCode": "rgb(114,99,71)",
+        "Code": "BCP-0382",
+        "Name": "Mount Olive"
+    },
+    {
+        "rgbCode": "rgb(238,227,202)",
+        "Code": "BCP-0383",
+        "Name": "Natural Whisper"
+    },
+    {
+        "rgbCode": "rgb(235,224,197)",
+        "Code": "BCP-0384",
+        "Name": "Cheese Please"
+    },
+    {
+        "rgbCode": "rgb(221,204,166)",
+        "Code": "BCP-0385",
+        "Name": "Howdy Neighbor"
+    },
+    {
+        "rgbCode": "rgb(207,188,144)",
+        "Code": "BCP-0386",
+        "Name": "Hippolita"
+    },
+    {
+        "rgbCode": "rgb(190,167,117)",
+        "Code": "BCP-0387",
+        "Name": "Goldie Oldie"
+    },
+    {
+        "rgbCode": "rgb(175,153,101)",
+        "Code": "BCP-0388",
+        "Name": "Shiny Gold"
+    },
+    {
+        "rgbCode": "rgb(124,107,65)",
+        "Code": "BCP-0389",
+        "Name": "Gold Sparkle\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(236,230,210)",
+        "Code": "BCP-0390",
+        "Name": "Olive Tint"
+    },
+    {
+        "rgbCode": "rgb(231,218,189)",
+        "Code": "BCP-0391",
+        "Name": "Crispa"
+    },
+    {
+        "rgbCode": "rgb(223,208,174)",
+        "Code": "BCP-0392",
+        "Name": "Alsot Olive"
+    },
+    {
+        "rgbCode": "rgb(204,189,154)",
+        "Code": "BCP-0393",
+        "Name": "Inviting Gesture"
+    },
+    {
+        "rgbCode": "rgb(189,174,134)",
+        "Code": "BCP-0394",
+        "Name": "Highway\n(Old Color Name: High Chief)"
+    },
+    {
+        "rgbCode": "rgb(177,159,111)",
+        "Code": "BCP-0395",
+        "Name": "Crack Willow"
+    },
+    {
+        "rgbCode": "rgb(125,111,62)",
+        "Code": "BCP-0396",
+        "Name": "Wing Man\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(238,231,210)",
+        "Code": "BCP-0397",
+        "Name": "Hidden Paradise"
+    },
+    {
+        "rgbCode": "rgb(224,212,177)",
+        "Code": "BCP-0398",
+        "Name": "Island Embrace"
+    },
+    {
+        "rgbCode": "rgb(211,199,158)",
+        "Code": "BCP-0399",
+        "Name": "Sawgrass Cottage"
+    },
+    {
+        "rgbCode": "rgb(197,181,142)",
+        "Code": "BCP-0400",
+        "Name": "New Foliage"
+    },
+    {
+        "rgbCode": "rgb(179,163,120)",
+        "Code": "BCP-0401",
+        "Name": "Bamboo Forest"
+    },
+    {
+        "rgbCode": "rgb(153,136,91)",
+        "Code": "BCP-0402",
+        "Name": "Sabo Garden"
+    },
+    {
+        "rgbCode": "rgb(135,118,73)",
+        "Code": "BCP-0403",
+        "Name": "Tropical Twist"
+    },
+    {
+        "rgbCode": "rgb(228,224,204)",
+        "Code": "BCP-0404",
+        "Name": "Translucent Vision"
+    },
+    {
+        "rgbCode": "rgb(221,216,192)",
+        "Code": "BCP-0405",
+        "Name": "Planet Earth"
+    },
+    {
+        "rgbCode": "rgb(209,205,177)",
+        "Code": "BCP-0406",
+        "Name": "Home Body"
+    },
+    {
+        "rgbCode": "rgb(195,190,160)",
+        "Code": "BCP-0407",
+        "Name": "Vapor"
+    },
+    {
+        "rgbCode": "rgb(184,178,142)",
+        "Code": "BCP-0408",
+        "Name": "Rediscover"
+    },
+    {
+        "rgbCode": "rgb(149,142,101)",
+        "Code": "BCP-0409",
+        "Name": "Green Cast"
+    },
+    {
+        "rgbCode": "rgb(110,104,72)",
+        "Code": "BCP-0410",
+        "Name": "Old School"
+    },
+    {
+        "rgbCode": "rgb(243,239,230)",
+        "Code": "BCP-0411",
+        "Name": "Cyprus Spring"
+    },
+    {
+        "rgbCode": "rgb(237,234,221)",
+        "Code": "BCP-0412",
+        "Name": "Sublime"
+    },
+    {
+        "rgbCode": "rgb(222,219,205)",
+        "Code": "BCP-0413",
+        "Name": "Speak to Me"
+    },
+    {
+        "rgbCode": "rgb(198,195,173)",
+        "Code": "BCP-0414",
+        "Name": "Plume Grass"
+    },
+    {
+        "rgbCode": "rgb(160,156,124)",
+        "Code": "BCP-0415",
+        "Name": "French Pear"
+    },
+    {
+        "rgbCode": "rgb(132,128,94)",
+        "Code": "BCP-0416",
+        "Name": "Taffeta Sheen\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(103,102,68)",
+        "Code": "BCP-0417",
+        "Name": "Aloe Leaf\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(234,229,216)",
+        "Code": "BCP-0418",
+        "Name": "Onion Skin"
+    },
+    {
+        "rgbCode": "rgb(217,210,196)",
+        "Code": "BCP-0419",
+        "Name": "Poseidon's Beard"
+    },
+    {
+        "rgbCode": "rgb(194,187,171)",
+        "Code": "BCP-0420",
+        "Name": "Dave's Den"
+    },
+    {
+        "rgbCode": "rgb(167,165,153)",
+        "Code": "BCP-0421",
+        "Name": "Silverado Ranch"
+    },
+    {
+        "rgbCode": "rgb(148,146,134)",
+        "Code": "BCP-0422",
+        "Name": "Everlasting Sage"
+    },
+    {
+        "rgbCode": "rgb(107,104,90)",
+        "Code": "BCP-0423",
+        "Name": "Eye of the Storm"
+    },
+    {
+        "rgbCode": "rgb(91,87,73)",
+        "Code": "BCP-0424",
+        "Name": "Monogram"
+    },
+    {
+        "rgbCode": "rgb(225,222,205)",
+        "Code": "BCP-0425",
+        "Name": "Pale Green Tea"
+    },
+    {
+        "rgbCode": "rgb(213,212,195)",
+        "Code": "BCP-0426",
+        "Name": "September Song"
+    },
+    {
+        "rgbCode": "rgb(187,190,169)",
+        "Code": "BCP-0427",
+        "Name": "Arbor Vitae"
+    },
+    {
+        "rgbCode": "rgb(148,150,124)",
+        "Code": "BCP-0428",
+        "Name": "Lucky Day"
+    },
+    {
+        "rgbCode": "rgb(126,126,101)",
+        "Code": "BCP-0429",
+        "Name": "Pendula Garden"
+    },
+    {
+        "rgbCode": "rgb(92,93,71)",
+        "Code": "BCP-0430",
+        "Name": "Vegetarian"
+    },
+    {
+        "rgbCode": "rgb(76,75,61)",
+        "Code": "BCP-0431",
+        "Name": "Clover Patch\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(237,234,219)",
+        "Code": "BCP-0432",
+        "Name": "Sweet Spring"
+    },
+    {
+        "rgbCode": "rgb(217,217,200)",
+        "Code": "BCP-0433",
+        "Name": "Grassy Glade"
+    },
+    {
+        "rgbCode": "rgb(196,198,175)",
+        "Code": "BCP-0434",
+        "Name": "Lush Meadow"
+    },
+    {
+        "rgbCode": "rgb(156,160,140)",
+        "Code": "BCP-0435",
+        "Name": "Big Fish"
+    },
+    {
+        "rgbCode": "rgb(135,137,114)",
+        "Code": "BCP-0436",
+        "Name": "Fern Gully"
+    },
+    {
+        "rgbCode": "rgb(117,120,96)",
+        "Code": "BCP-0437",
+        "Name": "Bowling Green"
+    },
+    {
+        "rgbCode": "rgb(96,95,73)",
+        "Code": "BCP-0438",
+        "Name": "Delicious"
+    },
+    {
+        "rgbCode": "rgb(225,226,217)",
+        "Code": "BCP-0439",
+        "Name": "Numero Uno"
+    },
+    {
+        "rgbCode": "rgb(205,207,199)",
+        "Code": "BCP-0440",
+        "Name": "Pale Loden"
+    },
+    {
+        "rgbCode": "rgb(170,176,168)",
+        "Code": "BCP-0441",
+        "Name": "Slate Stone"
+    },
+    {
+        "rgbCode": "rgb(132,137,127)",
+        "Code": "BCP-0442",
+        "Name": "Dowager"
+    },
+    {
+        "rgbCode": "rgb(98,95,83)",
+        "Code": "BCP-0443",
+        "Name": "Serpentine"
+    },
+    {
+        "rgbCode": "rgb(89,82,70)",
+        "Code": "BCP-0444",
+        "Name": "Grime"
+    },
+    {
+        "rgbCode": "rgb(82,74,61)",
+        "Code": "BCP-0445",
+        "Name": "Deep Shadow"
+    },
+    {
+        "rgbCode": "rgb(232,234,226)",
+        "Code": "BCP-0446",
+        "Name": "Sealskin Shadow"
+    },
+    {
+        "rgbCode": "rgb(215,218,211)",
+        "Code": "BCP-0447",
+        "Name": "Metal Flake"
+    },
+    {
+        "rgbCode": "rgb(188,192,186)",
+        "Code": "BCP-0448",
+        "Name": "Ice Flow"
+    },
+    {
+        "rgbCode": "rgb(150,155,148)",
+        "Code": "BCP-0449",
+        "Name": "Cannon Ball"
+    },
+    {
+        "rgbCode": "rgb(112,110,99)",
+        "Code": "BCP-0450",
+        "Name": "River God"
+    },
+    {
+        "rgbCode": "rgb(90,85,73)",
+        "Code": "BCP-0451",
+        "Name": "Evening Dove"
+    },
+    {
+        "rgbCode": "rgb(73,67,54)",
+        "Code": "BCP-0452",
+        "Name": "Ruggero Grey"
+    },
+    {
+        "rgbCode": "rgb(213,215,204)",
+        "Code": "BCP-0453",
+        "Name": "Feather Fern"
+    },
+    {
+        "rgbCode": "rgb(204,208,197)",
+        "Code": "BCP-0454",
+        "Name": "Marble Green"
+    },
+    {
+        "rgbCode": "rgb(194,199,187)",
+        "Code": "BCP-0455",
+        "Name": "Favored One"
+    },
+    {
+        "rgbCode": "rgb(168,176,163)",
+        "Code": "BCP-0456",
+        "Name": "Fair Maiden"
+    },
+    {
+        "rgbCode": "rgb(150,160,147)",
+        "Code": "BCP-0457",
+        "Name": "Heavenly Garden"
+    },
+    {
+        "rgbCode": "rgb(114,124,110)",
+        "Code": "BCP-0458",
+        "Name": "Malarca"
+    },
+    {
+        "rgbCode": "rgb(83,91,79)",
+        "Code": "BCP-0459",
+        "Name": "Pleasant Hill"
+    },
+    {
+        "rgbCode": "rgb(218,219,209)",
+        "Code": "BCP-0460",
+        "Name": "Just a Little"
+    },
+    {
+        "rgbCode": "rgb(204,210,201)",
+        "Code": "BCP-0461",
+        "Name": "Calm Breeze"
+    },
+    {
+        "rgbCode": "rgb(189,197,187)",
+        "Code": "BCP-0462",
+        "Name": "Resting Place"
+    },
+    {
+        "rgbCode": "rgb(166,176,167)",
+        "Code": "BCP-0463",
+        "Name": "Gaelic Garden"
+    },
+    {
+        "rgbCode": "rgb(144,157,150)",
+        "Code": "BCP-0464",
+        "Name": "Kathleen's Garden"
+    },
+    {
+        "rgbCode": "rgb(106,120,111)",
+        "Code": "BCP-0465",
+        "Name": "Earthen Cheer"
+    },
+    {
+        "rgbCode": "rgb(77,83,76)",
+        "Code": "BCP-0466",
+        "Name": "Green Column"
+    },
+    {
+        "rgbCode": "rgb(229,230,222)",
+        "Code": "BCP-0467",
+        "Name": "Sweet Ariel"
+    },
+    {
+        "rgbCode": "rgb(215,224,217)",
+        "Code": "BCP-0468",
+        "Name": "Mellow Blue"
+    },
+    {
+        "rgbCode": "rgb(191,207,200)",
+        "Code": "BCP-0469",
+        "Name": "D\u00e9j\u00e0 Vu"
+    },
+    {
+        "rgbCode": "rgb(172,192,186)",
+        "Code": "BCP-0470",
+        "Name": "Dreaming of the Day"
+    },
+    {
+        "rgbCode": "rgb(124,145,144)",
+        "Code": "BCP-0471",
+        "Name": "Miracle Bay"
+    },
+    {
+        "rgbCode": "rgb(89,109,106)",
+        "Code": "BCP-0472",
+        "Name": "Micropolis"
+    },
+    {
+        "rgbCode": "rgb(49,70,70)",
+        "Code": "BCP-0473",
+        "Name": "Atlantic Waves"
+    },
+    {
+        "rgbCode": "rgb(212,217,209)",
+        "Code": "BCP-0474",
+        "Name": "Raindance"
+    },
+    {
+        "rgbCode": "rgb(199,206,200)",
+        "Code": "BCP-0475",
+        "Name": "Foggy Mist"
+    },
+    {
+        "rgbCode": "rgb(184,194,186)",
+        "Code": "BCP-0476",
+        "Name": "Lighthouse View"
+    },
+    {
+        "rgbCode": "rgb(171,180,174)",
+        "Code": "BCP-0477",
+        "Name": "Ocean Cruise"
+    },
+    {
+        "rgbCode": "rgb(144,155,150)",
+        "Code": "BCP-0478",
+        "Name": "Singing in the Rain"
+    },
+    {
+        "rgbCode": "rgb(105,113,110)",
+        "Code": "BCP-0479",
+        "Name": "Stairway to Heaven"
+    },
+    {
+        "rgbCode": "rgb(83,90,87)",
+        "Code": "BCP-0480",
+        "Name": "Deep Sea Shadow"
+    },
+    {
+        "rgbCode": "rgb(217,224,216)",
+        "Code": "BCP-0481",
+        "Name": "Dream Catcher"
+    },
+    {
+        "rgbCode": "rgb(200,211,205)",
+        "Code": "BCP-0482",
+        "Name": "Powdered Pool"
+    },
+    {
+        "rgbCode": "rgb(176,192,191)",
+        "Code": "BCP-0483",
+        "Name": "Indulgence"
+    },
+    {
+        "rgbCode": "rgb(154,173,172)",
+        "Code": "BCP-0484",
+        "Name": "Stormy Bay"
+    },
+    {
+        "rgbCode": "rgb(134,155,155)",
+        "Code": "BCP-0485",
+        "Name": "North Beach Blue"
+    },
+    {
+        "rgbCode": "rgb(97,115,115)",
+        "Code": "BCP-0486",
+        "Name": "Paradise City"
+    },
+    {
+        "rgbCode": "rgb(72,86,85)",
+        "Code": "BCP-0487",
+        "Name": "Deep Space"
+    },
+    {
+        "rgbCode": "rgb(195,203,199)",
+        "Code": "BCP-0488",
+        "Name": "Luna Light"
+    },
+    {
+        "rgbCode": "rgb(184,194,190)",
+        "Code": "BCP-0489",
+        "Name": "Whirlwind"
+    },
+    {
+        "rgbCode": "rgb(157,169,168)",
+        "Code": "BCP-0490",
+        "Name": "Beacon Fog"
+    },
+    {
+        "rgbCode": "rgb(127,142,144)",
+        "Code": "BCP-0491",
+        "Name": "Smoky Day"
+    },
+    {
+        "rgbCode": "rgb(107,120,119)",
+        "Code": "BCP-0492",
+        "Name": "Polar Pond"
+    },
+    {
+        "rgbCode": "rgb(95,106,105)",
+        "Code": "BCP-0493",
+        "Name": "Spacebox"
+    },
+    {
+        "rgbCode": "rgb(65,70,69)",
+        "Code": "BCP-0494",
+        "Name": "Dark River"
+    },
+    {
+        "rgbCode": "rgb(216,226,219)",
+        "Code": "BCP-0495",
+        "Name": "Breakwaters"
+    },
+    {
+        "rgbCode": "rgb(192,208,206)",
+        "Code": "BCP-0496",
+        "Name": "Cape Hope"
+    },
+    {
+        "rgbCode": "rgb(177,196,197)",
+        "Code": "BCP-0497",
+        "Name": "Restful Retreat"
+    },
+    {
+        "rgbCode": "rgb(148,172,175)",
+        "Code": "BCP-0498",
+        "Name": "Wonder Land"
+    },
+    {
+        "rgbCode": "rgb(128,153,158)",
+        "Code": "BCP-0499",
+        "Name": "Ocean Melody"
+    },
+    {
+        "rgbCode": "rgb(92,114,117)",
+        "Code": "BCP-0500",
+        "Name": "Bowman Blue"
+    },
+    {
+        "rgbCode": "rgb(65,78,81)",
+        "Code": "BCP-0501",
+        "Name": "Calm Interlude"
+    },
+    {
+        "rgbCode": "rgb(212,218,217)",
+        "Code": "BCP-0502",
+        "Name": "Ocean Crest"
+    },
+    {
+        "rgbCode": "rgb(186,198,202)",
+        "Code": "BCP-0503",
+        "Name": "Water Droplet"
+    },
+    {
+        "rgbCode": "rgb(155,174,183)",
+        "Code": "BCP-0504",
+        "Name": "In the Blue\n(Old Color Name: Indian Tears)"
+    },
+    {
+        "rgbCode": "rgb(137,152,161)",
+        "Code": "BCP-0505",
+        "Name": "In Good Taste"
+    },
+    {
+        "rgbCode": "rgb(113,130,140)",
+        "Code": "BCP-0506",
+        "Name": "Ocean Storms"
+    },
+    {
+        "rgbCode": "rgb(96,109,117)",
+        "Code": "BCP-0507",
+        "Name": "Deep Lagoon"
+    },
+    {
+        "rgbCode": "rgb(75,76,78)",
+        "Code": "BCP-0508",
+        "Name": "Midnight Magic"
+    },
+    {
+        "rgbCode": "rgb(223,223,220)",
+        "Code": "BCP-0509",
+        "Name": "Beryl Pearl"
+    },
+    {
+        "rgbCode": "rgb(198,200,201)",
+        "Code": "BCP-0510",
+        "Name": "Sacred Spring"
+    },
+    {
+        "rgbCode": "rgb(167,173,178)",
+        "Code": "BCP-0511",
+        "Name": "Cystern"
+    },
+    {
+        "rgbCode": "rgb(141,151,158)",
+        "Code": "BCP-0512",
+        "Name": "Overcast Day"
+    },
+    {
+        "rgbCode": "rgb(105,112,119)",
+        "Code": "BCP-0513",
+        "Name": "Backwater"
+    },
+    {
+        "rgbCode": "rgb(88,95,101)",
+        "Code": "BCP-0514",
+        "Name": "Thunderstorm"
+    },
+    {
+        "rgbCode": "rgb(54,54,54)",
+        "Code": "BCP-0515",
+        "Name": "Silent Sea"
+    },
+    {
+        "rgbCode": "rgb(218,217,215)",
+        "Code": "BCP-0516",
+        "Name": "Diamond Stud"
+    },
+    {
+        "rgbCode": "rgb(206,205,205)",
+        "Code": "BCP-0517",
+        "Name": "Cool Elegance"
+    },
+    {
+        "rgbCode": "rgb(180,181,185)",
+        "Code": "BCP-0518",
+        "Name": "Let It Rain"
+    },
+    {
+        "rgbCode": "rgb(156,161,168)",
+        "Code": "BCP-0519",
+        "Name": "Baby Seal"
+    },
+    {
+        "rgbCode": "rgb(121,128,137)",
+        "Code": "BCP-0520",
+        "Name": "Slate Tint"
+    },
+    {
+        "rgbCode": "rgb(106,110,118)",
+        "Code": "BCP-0521",
+        "Name": "Dolphin Dream"
+    },
+    {
+        "rgbCode": "rgb(65,65,69)",
+        "Code": "BCP-0522",
+        "Name": "Octavius"
+    },
+    {
+        "rgbCode": "rgb(227,225,219)",
+        "Code": "BCP-0523",
+        "Name": "Felicity"
+    },
+    {
+        "rgbCode": "rgb(201,202,201)",
+        "Code": "BCP-0524",
+        "Name": "Nomadic Travels"
+    },
+    {
+        "rgbCode": "rgb(181,183,183)",
+        "Code": "BCP-0525",
+        "Name": "Marseilles"
+    },
+    {
+        "rgbCode": "rgb(153,158,161)",
+        "Code": "BCP-0526",
+        "Name": "Metropolis Mood"
+    },
+    {
+        "rgbCode": "rgb(126,132,134)",
+        "Code": "BCP-0527",
+        "Name": "London Road"
+    },
+    {
+        "rgbCode": "rgb(98,103,103)",
+        "Code": "BCP-0528",
+        "Name": "Greybeard"
+    },
+    {
+        "rgbCode": "rgb(62,63,62)",
+        "Code": "BCP-0529",
+        "Name": "Black Licorice"
+    },
+    {
+        "rgbCode": "rgb(211,208,204)",
+        "Code": "BCP-0530",
+        "Name": "Metro"
+    },
+    {
+        "rgbCode": "rgb(198,196,192)",
+        "Code": "BCP-0531",
+        "Name": "Snowglory"
+    },
+    {
+        "rgbCode": "rgb(181,179,176)",
+        "Code": "BCP-0532",
+        "Name": "Rand Moon"
+    },
+    {
+        "rgbCode": "rgb(157,158,156)",
+        "Code": "BCP-0533",
+        "Name": "Techile"
+    },
+    {
+        "rgbCode": "rgb(126,128,128)",
+        "Code": "BCP-0534",
+        "Name": "Subtle Shadow"
+    },
+    {
+        "rgbCode": "rgb(92,93,91)",
+        "Code": "BCP-0535",
+        "Name": "Zen Retreat"
+    },
+    {
+        "rgbCode": "rgb(72,71,68)",
+        "Code": "BCP-0536",
+        "Name": "Subway"
+    },
+    {
+        "rgbCode": "rgb(223,219,213)",
+        "Code": "BCP-0537",
+        "Name": "Dove's Wing"
+    },
+    {
+        "rgbCode": "rgb(212,206,201)",
+        "Code": "BCP-0538",
+        "Name": "Santo"
+    },
+    {
+        "rgbCode": "rgb(196,192,187)",
+        "Code": "BCP-0539",
+        "Name": "Place of Dust"
+    },
+    {
+        "rgbCode": "rgb(177,174,171)",
+        "Code": "BCP-0540",
+        "Name": "Praise Giving"
+    },
+    {
+        "rgbCode": "rgb(155,154,153)",
+        "Code": "BCP-0541",
+        "Name": "Smoky Tone"
+    },
+    {
+        "rgbCode": "rgb(129,127,127)",
+        "Code": "BCP-0542",
+        "Name": "Captain Nemo"
+    },
+    {
+        "rgbCode": "rgb(68,64,61)",
+        "Code": "BCP-0543",
+        "Name": "November Storms"
+    },
+    {
+        "rgbCode": "rgb(224,217,210)",
+        "Code": "BCP-0544",
+        "Name": "Venetian Wall"
+    },
+    {
+        "rgbCode": "rgb(214,210,207)",
+        "Code": "BCP-0545",
+        "Name": "Old Grey Mare"
+    },
+    {
+        "rgbCode": "rgb(197,196,194)",
+        "Code": "BCP-0546",
+        "Name": "Paternoster"
+    },
+    {
+        "rgbCode": "rgb(172,170,170)",
+        "Code": "BCP-0547",
+        "Name": "Tin Man"
+    },
+    {
+        "rgbCode": "rgb(153,152,151)",
+        "Code": "BCP-0548",
+        "Name": "Jet Gray"
+    },
+    {
+        "rgbCode": "rgb(115,110,109)",
+        "Code": "BCP-0549",
+        "Name": "Emu"
+    },
+    {
+        "rgbCode": "rgb(92,81,75)",
+        "Code": "BCP-0550",
+        "Name": "Gargoyle"
+    },
+    {
+        "rgbCode": "rgb(200,194,191)",
+        "Code": "BCP-0551",
+        "Name": "Orchid Shadow"
+    },
+    {
+        "rgbCode": "rgb(187,180,177)",
+        "Code": "BCP-0552",
+        "Name": "North Island"
+    },
+    {
+        "rgbCode": "rgb(177,170,167)",
+        "Code": "BCP-0553",
+        "Name": "Smoky Wings"
+    },
+    {
+        "rgbCode": "rgb(152,147,147)",
+        "Code": "BCP-0554",
+        "Name": "Sparrow"
+    },
+    {
+        "rgbCode": "rgb(122,118,118)",
+        "Code": "BCP-0555",
+        "Name": "Ocean Frigate"
+    },
+    {
+        "rgbCode": "rgb(97,90,88)",
+        "Code": "BCP-0556",
+        "Name": "Smokescreen"
+    },
+    {
+        "rgbCode": "rgb(74,68,63)",
+        "Code": "BCP-0557",
+        "Name": "Evermore"
+    },
+    {
+        "rgbCode": "rgb(237,231,219)",
+        "Code": "BCP-0558",
+        "Name": "Queen Anne's Lace"
+    },
+    {
+        "rgbCode": "rgb(221,211,199)",
+        "Code": "BCP-0559",
+        "Name": "Always Neutral"
+    },
+    {
+        "rgbCode": "rgb(210,197,185)",
+        "Code": "BCP-0560",
+        "Name": "Awakening"
+    },
+    {
+        "rgbCode": "rgb(173,163,154)",
+        "Code": "BCP-0561",
+        "Name": "In the Hills\n(Old Color Name: Indian Hills)"
+    },
+    {
+        "rgbCode": "rgb(146,138,130)",
+        "Code": "BCP-0562",
+        "Name": "Sultry Castle"
+    },
+    {
+        "rgbCode": "rgb(129,120,110)",
+        "Code": "BCP-0563",
+        "Name": "Vigilant"
+    },
+    {
+        "rgbCode": "rgb(95,83,71)",
+        "Code": "BCP-0564",
+        "Name": "Bad Hair Day"
+    },
+    {
+        "rgbCode": "rgb(231,224,215)",
+        "Code": "BCP-0565",
+        "Name": "Elk Skin\n(Old Color Name: Eskimo Boot)"
+    },
+    {
+        "rgbCode": "rgb(204,194,185)",
+        "Code": "BCP-0566",
+        "Name": "Sheepskin"
+    },
+    {
+        "rgbCode": "rgb(196,185,174)",
+        "Code": "BCP-0567",
+        "Name": "Hearthstone"
+    },
+    {
+        "rgbCode": "rgb(163,155,147)",
+        "Code": "BCP-0568",
+        "Name": "Cloudy Today"
+    },
+    {
+        "rgbCode": "rgb(130,121,111)",
+        "Code": "BCP-0569",
+        "Name": "Fireplace Mantel"
+    },
+    {
+        "rgbCode": "rgb(112,103,94)",
+        "Code": "BCP-0570",
+        "Name": "Grey Locks"
+    },
+    {
+        "rgbCode": "rgb(84,76,65)",
+        "Code": "BCP-0571",
+        "Name": "Terra Pin"
+    },
+    {
+        "rgbCode": "rgb(210,205,195)",
+        "Code": "BCP-0572",
+        "Name": "Power Lunch"
+    },
+    {
+        "rgbCode": "rgb(191,183,171)",
+        "Code": "BCP-0573",
+        "Name": "Chintz"
+    },
+    {
+        "rgbCode": "rgb(163,160,152)",
+        "Code": "BCP-0574",
+        "Name": "Shark Fin"
+    },
+    {
+        "rgbCode": "rgb(135,131,124)",
+        "Code": "BCP-0575",
+        "Name": "Greystoke"
+    },
+    {
+        "rgbCode": "rgb(118,112,102)",
+        "Code": "BCP-0576",
+        "Name": "Stormy Weather"
+    },
+    {
+        "rgbCode": "rgb(110,105,95)",
+        "Code": "BCP-0577",
+        "Name": "King Fischer"
+    },
+    {
+        "rgbCode": "rgb(81,75,66)",
+        "Code": "BCP-0578",
+        "Name": "Philosophically Speaking"
+    },
+    {
+        "rgbCode": "rgb(216,213,206)",
+        "Code": "BCP-0579",
+        "Name": "Turkish Tower"
+    },
+    {
+        "rgbCode": "rgb(195,193,184)",
+        "Code": "BCP-0580",
+        "Name": "Rippled Rock"
+    },
+    {
+        "rgbCode": "rgb(180,180,173)",
+        "Code": "BCP-0581",
+        "Name": "Fossilized"
+    },
+    {
+        "rgbCode": "rgb(129,132,129)",
+        "Code": "BCP-0582",
+        "Name": "Paved Path"
+    },
+    {
+        "rgbCode": "rgb(111,112,106)",
+        "Code": "BCP-0583",
+        "Name": "Billowing Smoke"
+    },
+    {
+        "rgbCode": "rgb(98,99,94)",
+        "Code": "BCP-0584",
+        "Name": "Tornado Wind"
+    },
+    {
+        "rgbCode": "rgb(77,76,69)",
+        "Code": "BCP-0585",
+        "Name": "Oyster Catch"
+    },
+    {
+        "rgbCode": "rgb(219,224,227)",
+        "Code": "BCP-0586",
+        "Name": "Wind Blown"
+    },
+    {
+        "rgbCode": "rgb(191,207,220)",
+        "Code": "BCP-0587",
+        "Name": "Atmospheric Pressure"
+    },
+    {
+        "rgbCode": "rgb(162,186,207)",
+        "Code": "BCP-0588",
+        "Name": "Babbling Creek"
+    },
+    {
+        "rgbCode": "rgb(121,149,176)",
+        "Code": "BCP-0589",
+        "Name": "Celestial Horizon"
+    },
+    {
+        "rgbCode": "rgb(91,122,150)",
+        "Code": "BCP-0590",
+        "Name": "Madonna Blue"
+    },
+    {
+        "rgbCode": "rgb(85,117,145)",
+        "Code": "BCP-0591",
+        "Name": "Blue Jacket"
+    },
+    {
+        "rgbCode": "rgb(62,79,101)",
+        "Code": "BCP-0592",
+        "Name": "Quiet Peace"
+    },
+    {
+        "rgbCode": "rgb(194,210,225)",
+        "Code": "BCP-0593",
+        "Name": "Surf's Surprise"
+    },
+    {
+        "rgbCode": "rgb(175,198,221)",
+        "Code": "BCP-0594",
+        "Name": "Simply Sparkling"
+    },
+    {
+        "rgbCode": "rgb(161,189,216)",
+        "Code": "BCP-0595",
+        "Name": "Sail into the Horizon"
+    },
+    {
+        "rgbCode": "rgb(147,175,205)",
+        "Code": "BCP-0596",
+        "Name": "Lazy Day"
+    },
+    {
+        "rgbCode": "rgb(114,152,191)",
+        "Code": "BCP-0597",
+        "Name": "Himalaya Sky"
+    },
+    {
+        "rgbCode": "rgb(83,124,167)",
+        "Code": "BCP-0598",
+        "Name": "Caribbean Current"
+    },
+    {
+        "rgbCode": "rgb(35,77,129)",
+        "Code": "BCP-0599",
+        "Name": "Florida Waters"
+    },
+    {
+        "rgbCode": "rgb(234,234,231)",
+        "Code": "BCP-0600",
+        "Name": "Melting Glacier"
+    },
+    {
+        "rgbCode": "rgb(216,225,232)",
+        "Code": "BCP-0601",
+        "Name": "Cool Sky"
+    },
+    {
+        "rgbCode": "rgb(193,212,230)",
+        "Code": "BCP-0602",
+        "Name": "Fluid Blue"
+    },
+    {
+        "rgbCode": "rgb(162,192,224)",
+        "Code": "BCP-0603",
+        "Name": "Angela Bay"
+    },
+    {
+        "rgbCode": "rgb(143,174,215)",
+        "Code": "BCP-0604",
+        "Name": "Blue Skies Today"
+    },
+    {
+        "rgbCode": "rgb(74,118,176)",
+        "Code": "BCP-0605",
+        "Name": "Capri Isle"
+    },
+    {
+        "rgbCode": "rgb(52,68,121)",
+        "Code": "BCP-0606",
+        "Name": "Frozen Blue"
+    },
+    {
+        "rgbCode": "rgb(210,223,233)",
+        "Code": "BCP-0607",
+        "Name": "Brush Blue"
+    },
+    {
+        "rgbCode": "rgb(184,209,231)",
+        "Code": "BCP-0608",
+        "Name": "Modern Blue"
+    },
+    {
+        "rgbCode": "rgb(153,189,225)",
+        "Code": "BCP-0609",
+        "Name": "Innuendo"
+    },
+    {
+        "rgbCode": "rgb(133,174,217)",
+        "Code": "BCP-0610",
+        "Name": "Blue Parlor"
+    },
+    {
+        "rgbCode": "rgb(101,152,205)",
+        "Code": "BCP-0611",
+        "Name": "Bashful Blue"
+    },
+    {
+        "rgbCode": "rgb(68,128,186)",
+        "Code": "BCP-0612",
+        "Name": "Parkwater"
+    },
+    {
+        "rgbCode": "rgb(48,81,139)",
+        "Code": "BCP-0613",
+        "Name": "Blue Highlight"
+    },
+    {
+        "rgbCode": "rgb(196,214,224)",
+        "Code": "BCP-0614",
+        "Name": "Simple Serenity"
+    },
+    {
+        "rgbCode": "rgb(177,202,219)",
+        "Code": "BCP-0615",
+        "Name": "Blue Bayou"
+    },
+    {
+        "rgbCode": "rgb(155,188,211)",
+        "Code": "BCP-0616",
+        "Name": "Bluette"
+    },
+    {
+        "rgbCode": "rgb(128,163,188)",
+        "Code": "BCP-0617",
+        "Name": "John's Blue"
+    },
+    {
+        "rgbCode": "rgb(104,145,175)",
+        "Code": "BCP-0618",
+        "Name": "Heavenly Sky"
+    },
+    {
+        "rgbCode": "rgb(68,108,139)",
+        "Code": "BCP-0619",
+        "Name": "Honky Tonk Blue"
+    },
+    {
+        "rgbCode": "rgb(54,70,90)",
+        "Code": "BCP-0620",
+        "Name": "Star-Studded"
+    },
+    {
+        "rgbCode": "rgb(208,218,219)",
+        "Code": "BCP-0621",
+        "Name": "Nuance"
+    },
+    {
+        "rgbCode": "rgb(196,209,214)",
+        "Code": "BCP-0622",
+        "Name": "Serene Setting"
+    },
+    {
+        "rgbCode": "rgb(179,197,207)",
+        "Code": "BCP-0623",
+        "Name": "Pompeii Ruins"
+    },
+    {
+        "rgbCode": "rgb(153,172,187)",
+        "Code": "BCP-0624",
+        "Name": "Blue Pot"
+    },
+    {
+        "rgbCode": "rgb(132,154,172)",
+        "Code": "BCP-0625",
+        "Name": "North Sea"
+    },
+    {
+        "rgbCode": "rgb(91,114,133)",
+        "Code": "BCP-0626",
+        "Name": "Blue Depths"
+    },
+    {
+        "rgbCode": "rgb(69,85,103)",
+        "Code": "BCP-0627",
+        "Name": "Into the Stratosphere"
+    },
+    {
+        "rgbCode": "rgb(218,224,219)",
+        "Code": "BCP-0628",
+        "Name": "Illuminating Experience"
+    },
+    {
+        "rgbCode": "rgb(196,209,211)",
+        "Code": "BCP-0629",
+        "Name": "Polished Cotton"
+    },
+    {
+        "rgbCode": "rgb(177,196,202)",
+        "Code": "BCP-0630",
+        "Name": "Star Mist"
+    },
+    {
+        "rgbCode": "rgb(148,171,182)",
+        "Code": "BCP-0631",
+        "Name": "Chicago Skyline"
+    },
+    {
+        "rgbCode": "rgb(128,154,167)",
+        "Code": "BCP-0632",
+        "Name": "Breath-Taking View"
+    },
+    {
+        "rgbCode": "rgb(86,113,126)",
+        "Code": "BCP-0633",
+        "Name": "Cape Cod Bay"
+    },
+    {
+        "rgbCode": "rgb(67,87,99)",
+        "Code": "BCP-0634",
+        "Name": "Day Spa"
+    },
+    {
+        "rgbCode": "rgb(223,232,231)",
+        "Code": "BCP-0635",
+        "Name": "Aquafir"
+    },
+    {
+        "rgbCode": "rgb(195,221,232)",
+        "Code": "BCP-0636",
+        "Name": "Empress Lila"
+    },
+    {
+        "rgbCode": "rgb(164,207,231)",
+        "Code": "BCP-0637",
+        "Name": "Marzena Dream"
+    },
+    {
+        "rgbCode": "rgb(131,192,227)",
+        "Code": "BCP-0638",
+        "Name": "Watery Sea"
+    },
+    {
+        "rgbCode": "rgb(98,169,216)",
+        "Code": "BCP-0639",
+        "Name": "Acapulco Dive"
+    },
+    {
+        "rgbCode": "rgb(18,130,191)",
+        "Code": "BCP-0640",
+        "Name": "Skylla"
+    },
+    {
+        "rgbCode": "rgb(28,86,146)",
+        "Code": "BCP-0641",
+        "Name": "Dancing Sea"
+    },
+    {
+        "rgbCode": "rgb(200,218,220)",
+        "Code": "BCP-0642",
+        "Name": "Sea Foam Mist"
+    },
+    {
+        "rgbCode": "rgb(184,208,218)",
+        "Code": "BCP-0643",
+        "Name": "Abstract Idea"
+    },
+    {
+        "rgbCode": "rgb(168,196,210)",
+        "Code": "BCP-0644",
+        "Name": "Dancing in the Rain"
+    },
+    {
+        "rgbCode": "rgb(138,176,201)",
+        "Code": "BCP-0645",
+        "Name": "Calm Tint"
+    },
+    {
+        "rgbCode": "rgb(114,158,187)",
+        "Code": "BCP-0646",
+        "Name": "Key West Zenith"
+    },
+    {
+        "rgbCode": "rgb(71,123,155)",
+        "Code": "BCP-0647",
+        "Name": "Zenith"
+    },
+    {
+        "rgbCode": "rgb(53,89,113)",
+        "Code": "BCP-0648",
+        "Name": "Happy Tune"
+    },
+    {
+        "rgbCode": "rgb(215,224,222)",
+        "Code": "BCP-0649",
+        "Name": "Divine Inspiration"
+    },
+    {
+        "rgbCode": "rgb(187,213,222)",
+        "Code": "BCP-0650",
+        "Name": "Bridgewater Bay"
+    },
+    {
+        "rgbCode": "rgb(169,204,217)",
+        "Code": "BCP-0651",
+        "Name": "Soft Blue"
+    },
+    {
+        "rgbCode": "rgb(139,184,205)",
+        "Code": "BCP-0652",
+        "Name": "Mountain Main"
+    },
+    {
+        "rgbCode": "rgb(108,162,189)",
+        "Code": "BCP-0653",
+        "Name": "Sea of Atlantis"
+    },
+    {
+        "rgbCode": "rgb(60,126,156)",
+        "Code": "BCP-0654",
+        "Name": "Peninsula"
+    },
+    {
+        "rgbCode": "rgb(45,91,117)",
+        "Code": "BCP-0655",
+        "Name": "Queen of the Night"
+    },
+    {
+        "rgbCode": "rgb(223,235,231)",
+        "Code": "BCP-0656",
+        "Name": "Roman White"
+    },
+    {
+        "rgbCode": "rgb(194,227,232)",
+        "Code": "BCP-0657",
+        "Name": "Kyoto"
+    },
+    {
+        "rgbCode": "rgb(153,213,226)",
+        "Code": "BCP-0658",
+        "Name": "Orleans Tune"
+    },
+    {
+        "rgbCode": "rgb(116,200,221)",
+        "Code": "BCP-0659",
+        "Name": "Lasting Thoughts"
+    },
+    {
+        "rgbCode": "rgb(78,181,208)",
+        "Code": "BCP-0660",
+        "Name": "Epimethius"
+    },
+    {
+        "rgbCode": "rgb(18,167,198)",
+        "Code": "BCP-0661",
+        "Name": "Charybdis"
+    },
+    {
+        "rgbCode": "rgb(0,92,120)",
+        "Code": "BCP-0662",
+        "Name": "Ocean Spray"
+    },
+    {
+        "rgbCode": "rgb(231,236,230)",
+        "Code": "BCP-0663",
+        "Name": "Falling Tears"
+    },
+    {
+        "rgbCode": "rgb(205,224,223)",
+        "Code": "BCP-0664",
+        "Name": "Zircon Ice"
+    },
+    {
+        "rgbCode": "rgb(187,214,217)",
+        "Code": "BCP-0665",
+        "Name": "Monet Magic"
+    },
+    {
+        "rgbCode": "rgb(142,183,192)",
+        "Code": "BCP-0666",
+        "Name": "Trisha's Eyes"
+    },
+    {
+        "rgbCode": "rgb(102,153,163)",
+        "Code": "BCP-0667",
+        "Name": "Blessed Blue"
+    },
+    {
+        "rgbCode": "rgb(71,126,135)",
+        "Code": "BCP-0668",
+        "Name": "Wish Upon a Star"
+    },
+    {
+        "rgbCode": "rgb(51,85,91)",
+        "Code": "BCP-0669",
+        "Name": "Frozen Stream"
+    },
+    {
+        "rgbCode": "rgb(222,236,231)",
+        "Code": "BCP-0670",
+        "Name": "Drifting Tide"
+    },
+    {
+        "rgbCode": "rgb(193,229,229)",
+        "Code": "BCP-0671",
+        "Name": "Egg Blue"
+    },
+    {
+        "rgbCode": "rgb(152,216,221)",
+        "Code": "BCP-0672",
+        "Name": "Quiet Pond"
+    },
+    {
+        "rgbCode": "rgb(101,195,205)",
+        "Code": "BCP-0673",
+        "Name": "Enchanted Evening"
+    },
+    {
+        "rgbCode": "rgb(26,173,187)",
+        "Code": "BCP-0674",
+        "Name": "Sarah's Garden"
+    },
+    {
+        "rgbCode": "rgb(0,150,164)",
+        "Code": "BCP-0675",
+        "Name": "Blue Bliss"
+    },
+    {
+        "rgbCode": "rgb(0,99,120)",
+        "Code": "BCP-0676",
+        "Name": "Job's Tears"
+    },
+    {
+        "rgbCode": "rgb(207,236,229)",
+        "Code": "BCP-0677",
+        "Name": "Eastern Wind"
+    },
+    {
+        "rgbCode": "rgb(191,230,224)",
+        "Code": "BCP-0678",
+        "Name": "Luxor Blue"
+    },
+    {
+        "rgbCode": "rgb(164,225,219)",
+        "Code": "BCP-0679",
+        "Name": "Everest"
+    },
+    {
+        "rgbCode": "rgb(125,214,208)",
+        "Code": "BCP-0680",
+        "Name": "Andes Sky"
+    },
+    {
+        "rgbCode": "rgb(30,182,177)",
+        "Code": "BCP-0681",
+        "Name": "Cyan Sky"
+    },
+    {
+        "rgbCode": "rgb(0,164,155)",
+        "Code": "BCP-0682",
+        "Name": "Pleasant Stream"
+    },
+    {
+        "rgbCode": "rgb(0,107,97)",
+        "Code": "BCP-0683",
+        "Name": "Joyful Tears"
+    },
+    {
+        "rgbCode": "rgb(224,235,227)",
+        "Code": "BCP-0684",
+        "Name": "Snow Drift"
+    },
+    {
+        "rgbCode": "rgb(214,231,223)",
+        "Code": "BCP-0685",
+        "Name": "Dillard's Blue"
+    },
+    {
+        "rgbCode": "rgb(181,218,212)",
+        "Code": "BCP-0686",
+        "Name": "Outerspace"
+    },
+    {
+        "rgbCode": "rgb(143,192,189)",
+        "Code": "BCP-0687",
+        "Name": "Stillwater"
+    },
+    {
+        "rgbCode": "rgb(93,154,150)",
+        "Code": "BCP-0688",
+        "Name": "Cold North"
+    },
+    {
+        "rgbCode": "rgb(67,131,126)",
+        "Code": "BCP-0689",
+        "Name": "Atmosphere"
+    },
+    {
+        "rgbCode": "rgb(37,88,90)",
+        "Code": "BCP-0690",
+        "Name": "Blue Period"
+    },
+    {
+        "rgbCode": "rgb(222,240,230)",
+        "Code": "BCP-0691",
+        "Name": "Paradise"
+    },
+    {
+        "rgbCode": "rgb(190,231,220)",
+        "Code": "BCP-0692",
+        "Name": "Barely Aqua"
+    },
+    {
+        "rgbCode": "rgb(144,215,201)",
+        "Code": "BCP-0693",
+        "Name": "Island Breeze"
+    },
+    {
+        "rgbCode": "rgb(125,200,187)",
+        "Code": "BCP-0694",
+        "Name": "Turkish Teal"
+    },
+    {
+        "rgbCode": "rgb(82,178,165)",
+        "Code": "BCP-0695",
+        "Name": "Island Moment\n(Old Color Name: Indian Necklace)"
+    },
+    {
+        "rgbCode": "rgb(45,155,137)",
+        "Code": "BCP-0696",
+        "Name": "Meringue"
+    },
+    {
+        "rgbCode": "rgb(24,104,89)",
+        "Code": "BCP-0697",
+        "Name": "Arizona Stone"
+    },
+    {
+        "rgbCode": "rgb(227,234,220)",
+        "Code": "BCP-0698",
+        "Name": "Calm Thoughts"
+    },
+    {
+        "rgbCode": "rgb(196,215,205)",
+        "Code": "BCP-0699",
+        "Name": "Lickety Split"
+    },
+    {
+        "rgbCode": "rgb(184,205,195)",
+        "Code": "BCP-0700",
+        "Name": "Uninhibited"
+    },
+    {
+        "rgbCode": "rgb(167,190,180)",
+        "Code": "BCP-0701",
+        "Name": "Plunge"
+    },
+    {
+        "rgbCode": "rgb(143,170,159)",
+        "Code": "BCP-0702",
+        "Name": "Peg's Promise"
+    },
+    {
+        "rgbCode": "rgb(108,134,121)",
+        "Code": "BCP-0703",
+        "Name": "Mountain Meadow"
+    },
+    {
+        "rgbCode": "rgb(82,102,91)",
+        "Code": "BCP-0704",
+        "Name": "Plateau"
+    },
+    {
+        "rgbCode": "rgb(212,233,219)",
+        "Code": "BCP-0705",
+        "Name": "Bay Green"
+    },
+    {
+        "rgbCode": "rgb(188,221,206)",
+        "Code": "BCP-0706",
+        "Name": "Filtered Forest"
+    },
+    {
+        "rgbCode": "rgb(171,211,194)",
+        "Code": "BCP-0707",
+        "Name": "Shimmering Glade"
+    },
+    {
+        "rgbCode": "rgb(153,194,177)",
+        "Code": "BCP-0708",
+        "Name": "Catarina Green"
+    },
+    {
+        "rgbCode": "rgb(117,167,147)",
+        "Code": "BCP-0709",
+        "Name": "Calmness"
+    },
+    {
+        "rgbCode": "rgb(90,140,116)",
+        "Code": "BCP-0710",
+        "Name": "On the Nile"
+    },
+    {
+        "rgbCode": "rgb(42,88,71)",
+        "Code": "BCP-0711",
+        "Name": "Cute Pixie\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(219,239,222)",
+        "Code": "BCP-0712",
+        "Name": "Teal Treat"
+    },
+    {
+        "rgbCode": "rgb(195,230,210)",
+        "Code": "BCP-0713",
+        "Name": "Mediterranean Mist"
+    },
+    {
+        "rgbCode": "rgb(180,224,199)",
+        "Code": "BCP-0714",
+        "Name": "Turquoise Tower"
+    },
+    {
+        "rgbCode": "rgb(145,201,170)",
+        "Code": "BCP-0715",
+        "Name": "Aquamarine Ocean"
+    },
+    {
+        "rgbCode": "rgb(112,179,141)",
+        "Code": "BCP-0716",
+        "Name": "Blue Green Scene"
+    },
+    {
+        "rgbCode": "rgb(85,155,109)",
+        "Code": "BCP-0717",
+        "Name": "Tropical Tale"
+    },
+    {
+        "rgbCode": "rgb(43,114,74)",
+        "Code": "BCP-0718",
+        "Name": "Aquadazzle\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(225,236,219)",
+        "Code": "BCP-0719",
+        "Name": "Mint Grasshopper"
+    },
+    {
+        "rgbCode": "rgb(216,231,212)",
+        "Code": "BCP-0720",
+        "Name": "Silky Mint"
+    },
+    {
+        "rgbCode": "rgb(203,225,200)",
+        "Code": "BCP-0721",
+        "Name": "Leaves of Spring"
+    },
+    {
+        "rgbCode": "rgb(176,209,175)",
+        "Code": "BCP-0722",
+        "Name": "Liliana"
+    },
+    {
+        "rgbCode": "rgb(134,168,129)",
+        "Code": "BCP-0723",
+        "Name": "Goddess Green"
+    },
+    {
+        "rgbCode": "rgb(115,147,101)",
+        "Code": "BCP-0724",
+        "Name": "Wildness Mint"
+    },
+    {
+        "rgbCode": "rgb(95,120,76)",
+        "Code": "BCP-0725",
+        "Name": "Melbourne"
+    },
+    {
+        "rgbCode": "rgb(235,239,223)",
+        "Code": "BCP-0726",
+        "Name": "Hidden Jade"
+    },
+    {
+        "rgbCode": "rgb(221,235,210)",
+        "Code": "BCP-0727",
+        "Name": "Graceful Mint"
+    },
+    {
+        "rgbCode": "rgb(181,216,173)",
+        "Code": "BCP-0728",
+        "Name": "Celtic Spring"
+    },
+    {
+        "rgbCode": "rgb(168,200,156)",
+        "Code": "BCP-0729",
+        "Name": "Garden Goddess"
+    },
+    {
+        "rgbCode": "rgb(140,178,123)",
+        "Code": "BCP-0730",
+        "Name": "Lucerne"
+    },
+    {
+        "rgbCode": "rgb(114,154,90)",
+        "Code": "BCP-0731",
+        "Name": "Aqueous\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(82,121,63)",
+        "Code": "BCP-0732",
+        "Name": "Tingle\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(224,232,213)",
+        "Code": "BCP-0733",
+        "Name": "Leaf Print"
+    },
+    {
+        "rgbCode": "rgb(197,215,197)",
+        "Code": "BCP-0734",
+        "Name": "Vineyard Green"
+    },
+    {
+        "rgbCode": "rgb(192,212,191)",
+        "Code": "BCP-0735",
+        "Name": "Cool Spring"
+    },
+    {
+        "rgbCode": "rgb(165,192,167)",
+        "Code": "BCP-0736",
+        "Name": "Mini Green"
+    },
+    {
+        "rgbCode": "rgb(146,174,147)",
+        "Code": "BCP-0737",
+        "Name": "Buenos Aires"
+    },
+    {
+        "rgbCode": "rgb(114,142,110)",
+        "Code": "BCP-0738",
+        "Name": "Spring Forest"
+    },
+    {
+        "rgbCode": "rgb(78,98,68)",
+        "Code": "BCP-0739",
+        "Name": "Jungle Adventure"
+    },
+    {
+        "rgbCode": "rgb(226,226,207)",
+        "Code": "BCP-0740",
+        "Name": "Just About Green"
+    },
+    {
+        "rgbCode": "rgb(208,212,192)",
+        "Code": "BCP-0741",
+        "Name": "Turning Leaf"
+    },
+    {
+        "rgbCode": "rgb(191,200,178)",
+        "Code": "BCP-0742",
+        "Name": "Isle of Dreams"
+    },
+    {
+        "rgbCode": "rgb(178,190,164)",
+        "Code": "BCP-0743",
+        "Name": "Belladonna's Leaf"
+    },
+    {
+        "rgbCode": "rgb(156,168,140)",
+        "Code": "BCP-0744",
+        "Name": "Hidden Glade"
+    },
+    {
+        "rgbCode": "rgb(130,142,111)",
+        "Code": "BCP-0745",
+        "Name": "Chic Shade"
+    },
+    {
+        "rgbCode": "rgb(92,101,73)",
+        "Code": "BCP-0746",
+        "Name": "Mother Nature"
+    },
+    {
+        "rgbCode": "rgb(233,232,211)",
+        "Code": "BCP-0747",
+        "Name": "Whitewash"
+    },
+    {
+        "rgbCode": "rgb(212,214,191)",
+        "Code": "BCP-0748",
+        "Name": "Balance"
+    },
+    {
+        "rgbCode": "rgb(199,203,176)",
+        "Code": "BCP-0749",
+        "Name": "Perspective"
+    },
+    {
+        "rgbCode": "rgb(191,194,161)",
+        "Code": "BCP-0750",
+        "Name": "Wispy Mint"
+    },
+    {
+        "rgbCode": "rgb(175,179,143)",
+        "Code": "BCP-0751",
+        "Name": "Green Glass"
+    },
+    {
+        "rgbCode": "rgb(143,146,106)",
+        "Code": "BCP-0752",
+        "Name": "Cactus Valley"
+    },
+    {
+        "rgbCode": "rgb(101,104,71)",
+        "Code": "BCP-0753",
+        "Name": "Baby Vegetable"
+    },
+    {
+        "rgbCode": "rgb(232,233,213)",
+        "Code": "BCP-0754",
+        "Name": "Colleen Green"
+    },
+    {
+        "rgbCode": "rgb(209,216,184)",
+        "Code": "BCP-0755",
+        "Name": "Creamy Mint"
+    },
+    {
+        "rgbCode": "rgb(199,208,174)",
+        "Code": "BCP-0756",
+        "Name": "Meadow Grass"
+    },
+    {
+        "rgbCode": "rgb(192,201,163)",
+        "Code": "BCP-0757",
+        "Name": "Garland Pine"
+    },
+    {
+        "rgbCode": "rgb(170,182,138)",
+        "Code": "BCP-0758",
+        "Name": "Glendale"
+    },
+    {
+        "rgbCode": "rgb(146,160,111)",
+        "Code": "BCP-0759",
+        "Name": "Perennial Garden"
+    },
+    {
+        "rgbCode": "rgb(114,126,78)",
+        "Code": "BCP-0760",
+        "Name": "Green Knoll"
+    },
+    {
+        "rgbCode": "rgb(228,235,211)",
+        "Code": "BCP-0761",
+        "Name": "Maison Verte"
+    },
+    {
+        "rgbCode": "rgb(213,227,192)",
+        "Code": "BCP-0762",
+        "Name": "Green Song"
+    },
+    {
+        "rgbCode": "rgb(197,217,174)",
+        "Code": "BCP-0763",
+        "Name": "Graceful Flower"
+    },
+    {
+        "rgbCode": "rgb(188,207,159)",
+        "Code": "BCP-0764",
+        "Name": "Green Sheen"
+    },
+    {
+        "rgbCode": "rgb(159,184,126)",
+        "Code": "BCP-0765",
+        "Name": "Sweetness"
+    },
+    {
+        "rgbCode": "rgb(139,165,95)",
+        "Code": "BCP-0766",
+        "Name": "Gentle Caress\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(109,134,64)",
+        "Code": "BCP-0767",
+        "Name": "Golf Day\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(239,237,215)",
+        "Code": "BCP-0768",
+        "Name": "Restful Rain"
+    },
+    {
+        "rgbCode": "rgb(230,233,196)",
+        "Code": "BCP-0769",
+        "Name": "Earth Happiness"
+    },
+    {
+        "rgbCode": "rgb(219,226,175)",
+        "Code": "BCP-0770",
+        "Name": "Woodland Nymph"
+    },
+    {
+        "rgbCode": "rgb(203,212,150)",
+        "Code": "BCP-0771",
+        "Name": "Green Lime"
+    },
+    {
+        "rgbCode": "rgb(184,197,120)",
+        "Code": "BCP-0772",
+        "Name": "Wonder Woods"
+    },
+    {
+        "rgbCode": "rgb(163,180,88)",
+        "Code": "BCP-0773",
+        "Name": "Glass Bottle\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(136,157,57)",
+        "Code": "BCP-0774",
+        "Name": "Green Gone Wild\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(238,234,197)",
+        "Code": "BCP-0775",
+        "Name": "Elfin Magic"
+    },
+    {
+        "rgbCode": "rgb(231,228,180)",
+        "Code": "BCP-0776",
+        "Name": "Green Mist"
+    },
+    {
+        "rgbCode": "rgb(229,223,169)",
+        "Code": "BCP-0777",
+        "Name": "Envy"
+    },
+    {
+        "rgbCode": "rgb(217,210,142)",
+        "Code": "BCP-0778",
+        "Name": "Vacation Island"
+    },
+    {
+        "rgbCode": "rgb(204,197,121)",
+        "Code": "BCP-0779",
+        "Name": "Frog Green"
+    },
+    {
+        "rgbCode": "rgb(178,173,83)",
+        "Code": "BCP-0780",
+        "Name": "Hyper\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(159,154,57)",
+        "Code": "BCP-0781",
+        "Name": "Science Experiment\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(232,230,201)",
+        "Code": "BCP-0782",
+        "Name": "Tender Shoot"
+    },
+    {
+        "rgbCode": "rgb(219,215,179)",
+        "Code": "BCP-0783",
+        "Name": "Clean Air"
+    },
+    {
+        "rgbCode": "rgb(211,206,162)",
+        "Code": "BCP-0784",
+        "Name": "Fresh Start"
+    },
+    {
+        "rgbCode": "rgb(194,188,135)",
+        "Code": "BCP-0785",
+        "Name": "Misty Valley"
+    },
+    {
+        "rgbCode": "rgb(171,163,102)",
+        "Code": "BCP-0786",
+        "Name": "Peter Pan"
+    },
+    {
+        "rgbCode": "rgb(152,146,85)",
+        "Code": "BCP-0787",
+        "Name": "Totally Cool\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(127,123,64)",
+        "Code": "BCP-0788",
+        "Name": "Green Glow"
+    },
+    {
+        "rgbCode": "rgb(234,225,195)",
+        "Code": "BCP-0789",
+        "Name": "Garden Seat"
+    },
+    {
+        "rgbCode": "rgb(224,217,181)",
+        "Code": "BCP-0790",
+        "Name": "Forest Found"
+    },
+    {
+        "rgbCode": "rgb(216,207,163)",
+        "Code": "BCP-0791",
+        "Name": "Origin"
+    },
+    {
+        "rgbCode": "rgb(203,191,133)",
+        "Code": "BCP-0792",
+        "Name": "Footie Pajamas"
+    },
+    {
+        "rgbCode": "rgb(190,175,99)",
+        "Code": "BCP-0793",
+        "Name": "Motherland"
+    },
+    {
+        "rgbCode": "rgb(174,158,79)",
+        "Code": "BCP-0794",
+        "Name": "The Goods\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(145,136,62)",
+        "Code": "BCP-0795",
+        "Name": "Martina Olive\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(244,235,206)",
+        "Code": "BCP-0796",
+        "Name": "Spotlight"
+    },
+    {
+        "rgbCode": "rgb(241,228,186)",
+        "Code": "BCP-0797",
+        "Name": "Bermuda Son"
+    },
+    {
+        "rgbCode": "rgb(239,221,170)",
+        "Code": "BCP-0798",
+        "Name": "Lemon Appeal"
+    },
+    {
+        "rgbCode": "rgb(228,207,141)",
+        "Code": "BCP-0799",
+        "Name": "Fire Dance"
+    },
+    {
+        "rgbCode": "rgb(206,180,96)",
+        "Code": "BCP-0800",
+        "Name": "Yellow Umbrella"
+    },
+    {
+        "rgbCode": "rgb(190,162,71)",
+        "Code": "BCP-0801",
+        "Name": "Rain Slicker\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(167,143,57)",
+        "Code": "BCP-0802",
+        "Name": "Rain Boots\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(251,239,210)",
+        "Code": "BCP-0803",
+        "Name": "Perky Tint"
+    },
+    {
+        "rgbCode": "rgb(246,223,177)",
+        "Code": "BCP-0804",
+        "Name": "Sweetie Pie"
+    },
+    {
+        "rgbCode": "rgb(243,214,158)",
+        "Code": "BCP-0805",
+        "Name": "Mella Yella"
+    },
+    {
+        "rgbCode": "rgb(235,201,139)",
+        "Code": "BCP-0806",
+        "Name": "Sweet Angelica"
+    },
+    {
+        "rgbCode": "rgb(219,174,95)",
+        "Code": "BCP-0807",
+        "Name": "Bright Idea"
+    },
+    {
+        "rgbCode": "rgb(206,162,78)",
+        "Code": "BCP-0808",
+        "Name": "Yellow Lupine\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(191,147,59)",
+        "Code": "BCP-0809",
+        "Name": "Hair Ribbon\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(245,233,200)",
+        "Code": "BCP-0810",
+        "Name": "Annabel"
+    },
+    {
+        "rgbCode": "rgb(244,223,178)",
+        "Code": "BCP-0811",
+        "Name": "Martica"
+    },
+    {
+        "rgbCode": "rgb(244,216,162)",
+        "Code": "BCP-0812",
+        "Name": "Gold Strand"
+    },
+    {
+        "rgbCode": "rgb(238,202,132)",
+        "Code": "BCP-0813",
+        "Name": "Glistening"
+    },
+    {
+        "rgbCode": "rgb(238,194,111)",
+        "Code": "BCP-0814",
+        "Name": "Golden Glow"
+    },
+    {
+        "rgbCode": "rgb(226,179,92)",
+        "Code": "BCP-0815",
+        "Name": "Lemon Surprise"
+    },
+    {
+        "rgbCode": "rgb(207,155,56)",
+        "Code": "BCP-0816",
+        "Name": "Sin City\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(247,237,212)",
+        "Code": "BCP-0817",
+        "Name": "Best of Summer"
+    },
+    {
+        "rgbCode": "rgb(251,240,215)",
+        "Code": "BCP-0818",
+        "Name": "Day at the Zoo"
+    },
+    {
+        "rgbCode": "rgb(253,237,200)",
+        "Code": "BCP-0819",
+        "Name": "Lemon Tint"
+    },
+    {
+        "rgbCode": "rgb(254,217,149)",
+        "Code": "BCP-0820",
+        "Name": "Sign of the Crown"
+    },
+    {
+        "rgbCode": "rgb(251,203,115)",
+        "Code": "BCP-0821",
+        "Name": "Sun Touched\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(247,188,76)",
+        "Code": "BCP-0822",
+        "Name": "Sunny Mood\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(234,165,29)",
+        "Code": "BCP-0823",
+        "Name": "Sun Drops\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(249,241,216)",
+        "Code": "BCP-0824",
+        "Name": "Hush"
+    },
+    {
+        "rgbCode": "rgb(250,239,208)",
+        "Code": "BCP-0825",
+        "Name": "Frozen Banana"
+    },
+    {
+        "rgbCode": "rgb(254,237,193)",
+        "Code": "BCP-0826",
+        "Name": "Banana Custard"
+    },
+    {
+        "rgbCode": "rgb(255,235,186)",
+        "Code": "BCP-0827",
+        "Name": "Ray of Light"
+    },
+    {
+        "rgbCode": "rgb(255,217,137)",
+        "Code": "BCP-0828",
+        "Name": "Go Go Glow\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(250,194,80)",
+        "Code": "BCP-0829",
+        "Name": "Dandy Lion\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(245,173,50)",
+        "Code": "BCP-0830",
+        "Name": "Warm Fuzzies\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(249,234,198)",
+        "Code": "BCP-0831",
+        "Name": "Lavish Lemon"
+    },
+    {
+        "rgbCode": "rgb(251,230,170)",
+        "Code": "BCP-0832",
+        "Name": "Lemon Sponge Cake"
+    },
+    {
+        "rgbCode": "rgb(254,223,151)",
+        "Code": "BCP-0833",
+        "Name": "Scene Stealer"
+    },
+    {
+        "rgbCode": "rgb(255,219,130)",
+        "Code": "BCP-0834",
+        "Name": "Lemon Drizzle"
+    },
+    {
+        "rgbCode": "rgb(251,205,89)",
+        "Code": "BCP-0835",
+        "Name": "Glitter Yellow"
+    },
+    {
+        "rgbCode": "rgb(247,193,61)",
+        "Code": "BCP-0836",
+        "Name": "Basket of Gold\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(244,182,34)",
+        "Code": "BCP-0837",
+        "Name": "Fresh Scent\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(249,242,219)",
+        "Code": "BCP-0838",
+        "Name": "Fresh Cream"
+    },
+    {
+        "rgbCode": "rgb(255,237,194)",
+        "Code": "BCP-0839",
+        "Name": "Butterball"
+    },
+    {
+        "rgbCode": "rgb(255,232,163)",
+        "Code": "BCP-0840",
+        "Name": "Lemon Zest\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(255,215,100)",
+        "Code": "BCP-0841",
+        "Name": "Sun's Glory\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(255,199,38)",
+        "Code": "BCP-0842",
+        "Name": "Sunnyside\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(247,191,4)",
+        "Code": "BCP-0843",
+        "Name": "Buttered Popcorn\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(245,188,0)",
+        "Code": "BCP-0844",
+        "Name": "Yolk\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(249,242,219)",
+        "Code": "BCP-0845",
+        "Name": "Lemon Stick"
+    },
+    {
+        "rgbCode": "rgb(252,238,197)",
+        "Code": "BCP-0846",
+        "Name": "Pure Laughter"
+    },
+    {
+        "rgbCode": "rgb(254,237,182)",
+        "Code": "BCP-0847",
+        "Name": "Yellow Blitz"
+    },
+    {
+        "rgbCode": "rgb(255,231,151)",
+        "Code": "BCP-0848",
+        "Name": "Yellow Tail"
+    },
+    {
+        "rgbCode": "rgb(255,227,126)",
+        "Code": "BCP-0849",
+        "Name": "Lemon Peel"
+    },
+    {
+        "rgbCode": "rgb(255,213,68)",
+        "Code": "BCP-0850",
+        "Name": "Citron\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(255,199,32)",
+        "Code": "BCP-0851",
+        "Name": "Happy Face\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(248,243,228)",
+        "Code": "BCP-0852",
+        "Name": "Touch of Sun"
+    },
+    {
+        "rgbCode": "rgb(251,239,213)",
+        "Code": "BCP-0853",
+        "Name": "Lemon Lilly"
+    },
+    {
+        "rgbCode": "rgb(253,235,195)",
+        "Code": "BCP-0854",
+        "Name": "Crocus Tint"
+    },
+    {
+        "rgbCode": "rgb(255,225,156)",
+        "Code": "BCP-0855",
+        "Name": "Butter Tart"
+    },
+    {
+        "rgbCode": "rgb(255,215,124)",
+        "Code": "BCP-0856",
+        "Name": "Broadway Lights"
+    },
+    {
+        "rgbCode": "rgb(255,196,69)",
+        "Code": "BCP-0857",
+        "Name": "Peeps"
+    },
+    {
+        "rgbCode": "rgb(255,181,0)",
+        "Code": "BCP-0858",
+        "Name": "Look at the Bright Side\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(248,234,205)",
+        "Code": "BCP-0859",
+        "Name": "Daylilly Yellow"
+    },
+    {
+        "rgbCode": "rgb(252,226,181)",
+        "Code": "BCP-0860",
+        "Name": "Hawaiian Cream"
+    },
+    {
+        "rgbCode": "rgb(251,220,162)",
+        "Code": "BCP-0861",
+        "Name": "Lemon Filling"
+    },
+    {
+        "rgbCode": "rgb(250,208,135)",
+        "Code": "BCP-0862",
+        "Name": "Yellow Trumpet"
+    },
+    {
+        "rgbCode": "rgb(235,181,92)",
+        "Code": "BCP-0863",
+        "Name": "I'm a Local\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(224,167,71)",
+        "Code": "BCP-0864",
+        "Name": "Lioness\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(209,154,57)",
+        "Code": "BCP-0865",
+        "Name": "Lemon Bar\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(243,230,205)",
+        "Code": "BCP-0866",
+        "Name": "Apple Sauce"
+    },
+    {
+        "rgbCode": "rgb(242,221,186)",
+        "Code": "BCP-0867",
+        "Name": "Egg Noodle"
+    },
+    {
+        "rgbCode": "rgb(238,211,168)",
+        "Code": "BCP-0868",
+        "Name": "Shortcake"
+    },
+    {
+        "rgbCode": "rgb(226,196,151)",
+        "Code": "BCP-0869",
+        "Name": "Frozen Fruit"
+    },
+    {
+        "rgbCode": "rgb(195,158,96)",
+        "Code": "BCP-0870",
+        "Name": "Lemon Slice"
+    },
+    {
+        "rgbCode": "rgb(186,149,92)",
+        "Code": "BCP-0871",
+        "Name": "Gold Finch"
+    },
+    {
+        "rgbCode": "rgb(167,127,65)",
+        "Code": "BCP-0872",
+        "Name": "Saffron Valley"
+    },
+    {
+        "rgbCode": "rgb(249,227,196)",
+        "Code": "BCP-0873",
+        "Name": "Washed in Light"
+    },
+    {
+        "rgbCode": "rgb(245,220,187)",
+        "Code": "BCP-0874",
+        "Name": "Kettle Corn"
+    },
+    {
+        "rgbCode": "rgb(241,215,181)",
+        "Code": "BCP-0875",
+        "Name": "Nothing Less"
+    },
+    {
+        "rgbCode": "rgb(223,189,144)",
+        "Code": "BCP-0876",
+        "Name": "Corn Chowder"
+    },
+    {
+        "rgbCode": "rgb(208,168,116)",
+        "Code": "BCP-0877",
+        "Name": "Gold Digger"
+    },
+    {
+        "rgbCode": "rgb(193,152,98)",
+        "Code": "BCP-0878",
+        "Name": "Glorious Gold"
+    },
+    {
+        "rgbCode": "rgb(171,129,75)",
+        "Code": "BCP-0879",
+        "Name": "Golden Cadillac"
+    },
+    {
+        "rgbCode": "rgb(241,222,196)",
+        "Code": "BCP-0880",
+        "Name": "Cauliflower Cream"
+    },
+    {
+        "rgbCode": "rgb(235,210,176)",
+        "Code": "BCP-0881",
+        "Name": "Golden Syrup"
+    },
+    {
+        "rgbCode": "rgb(232,205,167)",
+        "Code": "BCP-0882",
+        "Name": "Marzipan"
+    },
+    {
+        "rgbCode": "rgb(220,190,149)",
+        "Code": "BCP-0883",
+        "Name": "Follow the Leader"
+    },
+    {
+        "rgbCode": "rgb(202,166,116)",
+        "Code": "BCP-0884",
+        "Name": "Gold Tweed"
+    },
+    {
+        "rgbCode": "rgb(181,142,87)",
+        "Code": "BCP-0885",
+        "Name": "Jungle Expedition"
+    },
+    {
+        "rgbCode": "rgb(152,119,71)",
+        "Code": "BCP-0886",
+        "Name": "Gold Estate"
+    },
+    {
+        "rgbCode": "rgb(241,223,197)",
+        "Code": "BCP-0887",
+        "Name": "Haystack"
+    },
+    {
+        "rgbCode": "rgb(233,214,188)",
+        "Code": "BCP-0888",
+        "Name": "Golden Weave"
+    },
+    {
+        "rgbCode": "rgb(233,207,172)",
+        "Code": "BCP-0889",
+        "Name": "Russeau Gold"
+    },
+    {
+        "rgbCode": "rgb(213,177,135)",
+        "Code": "BCP-0890",
+        "Name": "Dubloon"
+    },
+    {
+        "rgbCode": "rgb(191,153,108)",
+        "Code": "BCP-0891",
+        "Name": "Silence is Golden"
+    },
+    {
+        "rgbCode": "rgb(177,140,96)",
+        "Code": "BCP-0892",
+        "Name": "Gold Ransom"
+    },
+    {
+        "rgbCode": "rgb(152,116,73)",
+        "Code": "BCP-0893",
+        "Name": "Rich and Rare"
+    },
+    {
+        "rgbCode": "rgb(246,229,205)",
+        "Code": "BCP-0894",
+        "Name": "Misty Mustard"
+    },
+    {
+        "rgbCode": "rgb(245,218,186)",
+        "Code": "BCP-0895",
+        "Name": "Rotunda Gold"
+    },
+    {
+        "rgbCode": "rgb(238,205,168)",
+        "Code": "BCP-0896",
+        "Name": "Coin Purse"
+    },
+    {
+        "rgbCode": "rgb(223,182,135)",
+        "Code": "BCP-0897",
+        "Name": "Bag of Gold"
+    },
+    {
+        "rgbCode": "rgb(209,163,111)",
+        "Code": "BCP-0898",
+        "Name": "Goby Desert"
+    },
+    {
+        "rgbCode": "rgb(186,137,79)",
+        "Code": "BCP-0899",
+        "Name": "Bugle Boy"
+    },
+    {
+        "rgbCode": "rgb(173,126,72)",
+        "Code": "BCP-0900",
+        "Name": "Unforgettably Gold"
+    },
+    {
+        "rgbCode": "rgb(246,234,214)",
+        "Code": "BCP-0901",
+        "Name": "Spinning Wheel"
+    },
+    {
+        "rgbCode": "rgb(247,217,181)",
+        "Code": "BCP-0902",
+        "Name": "Soleil"
+    },
+    {
+        "rgbCode": "rgb(244,206,162)",
+        "Code": "BCP-0903",
+        "Name": "Dainty Flower"
+    },
+    {
+        "rgbCode": "rgb(242,201,152)",
+        "Code": "BCP-0904",
+        "Name": "Sunday Afternoon"
+    },
+    {
+        "rgbCode": "rgb(232,187,133)",
+        "Code": "BCP-0905",
+        "Name": "Egyptian Gold"
+    },
+    {
+        "rgbCode": "rgb(213,160,96)",
+        "Code": "BCP-0906",
+        "Name": "Cat's Eye Marble"
+    },
+    {
+        "rgbCode": "rgb(181,128,62)",
+        "Code": "BCP-0907",
+        "Name": "Millionaire"
+    },
+    {
+        "rgbCode": "rgb(249,239,222)",
+        "Code": "BCP-0908",
+        "Name": "God-Given"
+    },
+    {
+        "rgbCode": "rgb(251,224,189)",
+        "Code": "BCP-0909",
+        "Name": "Autumn Child"
+    },
+    {
+        "rgbCode": "rgb(251,213,165)",
+        "Code": "BCP-0910",
+        "Name": "Western Sky"
+    },
+    {
+        "rgbCode": "rgb(240,189,133)",
+        "Code": "BCP-0911",
+        "Name": "Sunset in Italy"
+    },
+    {
+        "rgbCode": "rgb(230,175,114)",
+        "Code": "BCP-0912",
+        "Name": "Tropical Dream"
+    },
+    {
+        "rgbCode": "rgb(215,154,84)",
+        "Code": "BCP-0913",
+        "Name": "Angel Food Cake"
+    },
+    {
+        "rgbCode": "rgb(199,136,63)",
+        "Code": "BCP-0914",
+        "Name": "Child of the Moon\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(247,230,203)",
+        "Code": "BCP-0915",
+        "Name": "Queenly Laugh"
+    },
+    {
+        "rgbCode": "rgb(249,229,201)",
+        "Code": "BCP-0916",
+        "Name": "Honey Cream"
+    },
+    {
+        "rgbCode": "rgb(241,207,167)",
+        "Code": "BCP-0917",
+        "Name": "Canyon Sand"
+    },
+    {
+        "rgbCode": "rgb(236,203,164)",
+        "Code": "BCP-0918",
+        "Name": "Good-Looking"
+    },
+    {
+        "rgbCode": "rgb(230,190,144)",
+        "Code": "BCP-0919",
+        "Name": "Venice Square"
+    },
+    {
+        "rgbCode": "rgb(200,154,97)",
+        "Code": "BCP-0920",
+        "Name": "Sunrise Heat"
+    },
+    {
+        "rgbCode": "rgb(178,126,69)",
+        "Code": "BCP-0921",
+        "Name": "Waxen Moon"
+    },
+    {
+        "rgbCode": "rgb(245,234,210)",
+        "Code": "BCP-0922",
+        "Name": "Cheesecake"
+    },
+    {
+        "rgbCode": "rgb(255,221,177)",
+        "Code": "BCP-0923",
+        "Name": "Tiffany Light"
+    },
+    {
+        "rgbCode": "rgb(251,210,158)",
+        "Code": "BCP-0924",
+        "Name": "First Day of School"
+    },
+    {
+        "rgbCode": "rgb(247,203,147)",
+        "Code": "BCP-0925",
+        "Name": "Jonquil Trail"
+    },
+    {
+        "rgbCode": "rgb(240,192,127)",
+        "Code": "BCP-0926",
+        "Name": "Perky Yellow"
+    },
+    {
+        "rgbCode": "rgb(224,165,89)",
+        "Code": "BCP-0927",
+        "Name": "Lemon Poppy\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(196,137,61)",
+        "Code": "BCP-0928",
+        "Name": "Yellow Warning\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(248,242,228)",
+        "Code": "BCP-0929",
+        "Name": "Yellow Bonnet"
+    },
+    {
+        "rgbCode": "rgb(248,238,217)",
+        "Code": "BCP-0930",
+        "Name": "Marshmallow Fluff"
+    },
+    {
+        "rgbCode": "rgb(254,228,187)",
+        "Code": "BCP-0931",
+        "Name": "Lemon Bubble"
+    },
+    {
+        "rgbCode": "rgb(250,207,146)",
+        "Code": "BCP-0932",
+        "Name": "Sun Splashed\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(238,185,113)",
+        "Code": "BCP-0933",
+        "Name": "Sassy Yellow"
+    },
+    {
+        "rgbCode": "rgb(224,165,81)",
+        "Code": "BCP-0934",
+        "Name": "Lemon Essence\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(207,144,56)",
+        "Code": "BCP-0935",
+        "Name": "Yellow Shout\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(253,240,217)",
+        "Code": "BCP-0936",
+        "Name": "Diantha"
+    },
+    {
+        "rgbCode": "rgb(255,237,208)",
+        "Code": "BCP-0937",
+        "Name": "Egg Nog"
+    },
+    {
+        "rgbCode": "rgb(255,217,160)",
+        "Code": "BCP-0938",
+        "Name": "Primrose Path"
+    },
+    {
+        "rgbCode": "rgb(255,207,139)",
+        "Code": "BCP-0939",
+        "Name": "Big Bus Yellow\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(255,190,99)",
+        "Code": "BCP-0940",
+        "Name": "Grilled Cheese"
+    },
+    {
+        "rgbCode": "rgb(252,173,65)",
+        "Code": "BCP-0941",
+        "Name": "Glowing Lantern\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(238,155,36)",
+        "Code": "BCP-0942",
+        "Name": "Lemon Dream\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(253,237,207)",
+        "Code": "BCP-0943",
+        "Name": "Picture Perfect"
+    },
+    {
+        "rgbCode": "rgb(255,233,193)",
+        "Code": "BCP-0944",
+        "Name": "Sunrise Glow"
+    },
+    {
+        "rgbCode": "rgb(255,228,174)",
+        "Code": "BCP-0945",
+        "Name": "Treasure Seeker"
+    },
+    {
+        "rgbCode": "rgb(255,220,152)",
+        "Code": "BCP-0946",
+        "Name": "Hot Spot"
+    },
+    {
+        "rgbCode": "rgb(255,199,101)",
+        "Code": "BCP-0947",
+        "Name": "Bright Halo\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(255,185,58)",
+        "Code": "BCP-0948",
+        "Name": "Bright Bubble\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(255,165,0)",
+        "Code": "BCP-0949",
+        "Name": "Frenzy"
+    },
+    {
+        "rgbCode": "rgb(249,240,217)",
+        "Code": "BCP-0950",
+        "Name": "Ivory Coast"
+    },
+    {
+        "rgbCode": "rgb(254,235,194)",
+        "Code": "BCP-0951",
+        "Name": "Pound Cake"
+    },
+    {
+        "rgbCode": "rgb(255,225,159)",
+        "Code": "BCP-0952",
+        "Name": "Rich Glow\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(255,200,97)",
+        "Code": "BCP-0953",
+        "Name": "Evening Star\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(255,180,41)",
+        "Code": "BCP-0954",
+        "Name": "Mac N Cheese\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(254,166,19)",
+        "Code": "BCP-0955",
+        "Name": "Lemon Whisper\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(251,159,2)",
+        "Code": "BCP-0956",
+        "Name": "I Love To Boogie\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(250,240,222)",
+        "Code": "BCP-0957",
+        "Name": "Pale Narcissus"
+    },
+    {
+        "rgbCode": "rgb(255,232,197)",
+        "Code": "BCP-0958",
+        "Name": "Holy Grail"
+    },
+    {
+        "rgbCode": "rgb(255,214,157)",
+        "Code": "BCP-0959",
+        "Name": "Essentially Bright"
+    },
+    {
+        "rgbCode": "rgb(255,199,128)",
+        "Code": "BCP-0960",
+        "Name": "Bread 'n Butter\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(255,183,101)",
+        "Code": "BCP-0961",
+        "Name": "Gold's Great Touch"
+    },
+    {
+        "rgbCode": "rgb(255,164,64)",
+        "Code": "BCP-0962",
+        "Name": "Pieces of Eight\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(255,141,30)",
+        "Code": "BCP-0963",
+        "Name": "Zambia\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(251,229,202)",
+        "Code": "BCP-0964",
+        "Name": "Capetown Cream"
+    },
+    {
+        "rgbCode": "rgb(253,229,197)",
+        "Code": "BCP-0965",
+        "Name": "Gold of Midas"
+    },
+    {
+        "rgbCode": "rgb(255,211,165)",
+        "Code": "BCP-0966",
+        "Name": "Starburst"
+    },
+    {
+        "rgbCode": "rgb(255,204,154)",
+        "Code": "BCP-0967",
+        "Name": "Endearment"
+    },
+    {
+        "rgbCode": "rgb(255,170,104)",
+        "Code": "BCP-0968",
+        "Name": "Mango Madness\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(254,148,72)",
+        "Code": "BCP-0969",
+        "Name": "Au Gratin\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(244,122,40)",
+        "Code": "BCP-0970",
+        "Name": "Orange you Happy?\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(250,232,208)",
+        "Code": "BCP-0971",
+        "Name": "May Sun"
+    },
+    {
+        "rgbCode": "rgb(252,213,180)",
+        "Code": "BCP-0972",
+        "Name": "Apple Cider"
+    },
+    {
+        "rgbCode": "rgb(255,199,156)",
+        "Code": "BCP-0973",
+        "Name": "Atoll Sand"
+    },
+    {
+        "rgbCode": "rgb(252,178,127)",
+        "Code": "BCP-0974",
+        "Name": "Goosebill"
+    },
+    {
+        "rgbCode": "rgb(247,161,104)",
+        "Code": "BCP-0975",
+        "Name": "Downy Feather\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(244,146,83)",
+        "Code": "BCP-0976",
+        "Name": "Cocktail Hour\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(233,126,62)",
+        "Code": "BCP-0977",
+        "Name": "Cheddar Cheese\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(248,223,198)",
+        "Code": "BCP-0978",
+        "Name": "City of Diamonds"
+    },
+    {
+        "rgbCode": "rgb(253,215,181)",
+        "Code": "BCP-0979",
+        "Name": "Liveliness"
+    },
+    {
+        "rgbCode": "rgb(252,204,164)",
+        "Code": "BCP-0980",
+        "Name": "Southern Breeze"
+    },
+    {
+        "rgbCode": "rgb(247,188,144)",
+        "Code": "BCP-0981",
+        "Name": "Tuscan Wall"
+    },
+    {
+        "rgbCode": "rgb(236,165,114)",
+        "Code": "BCP-0982",
+        "Name": "Taste of Summer"
+    },
+    {
+        "rgbCode": "rgb(227,144,83)",
+        "Code": "BCP-0983",
+        "Name": "Japonica\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(207,123,59)",
+        "Code": "BCP-0984",
+        "Name": "Mexican Spirit\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(248,237,224)",
+        "Code": "BCP-0985",
+        "Name": "Whiskers"
+    },
+    {
+        "rgbCode": "rgb(250,227,204)",
+        "Code": "BCP-0986",
+        "Name": "Mineral Glow"
+    },
+    {
+        "rgbCode": "rgb(243,204,170)",
+        "Code": "BCP-0987",
+        "Name": "Tallow"
+    },
+    {
+        "rgbCode": "rgb(233,178,128)",
+        "Code": "BCP-0988",
+        "Name": "Mom's Apple Pie"
+    },
+    {
+        "rgbCode": "rgb(208,143,85)",
+        "Code": "BCP-0989",
+        "Name": "Impulse"
+    },
+    {
+        "rgbCode": "rgb(193,128,73)",
+        "Code": "BCP-0990",
+        "Name": "Butterscotch Glaze"
+    },
+    {
+        "rgbCode": "rgb(188,123,69)",
+        "Code": "BCP-0991",
+        "Name": "Beeswax Candle"
+    },
+    {
+        "rgbCode": "rgb(243,222,203)",
+        "Code": "BCP-0992",
+        "Name": "Touch of Topaz"
+    },
+    {
+        "rgbCode": "rgb(246,216,193)",
+        "Code": "BCP-0993",
+        "Name": "Incan Treasure"
+    },
+    {
+        "rgbCode": "rgb(241,205,178)",
+        "Code": "BCP-0994",
+        "Name": "Sparkle Glow"
+    },
+    {
+        "rgbCode": "rgb(230,185,149)",
+        "Code": "BCP-0995",
+        "Name": "Bread Pudding"
+    },
+    {
+        "rgbCode": "rgb(211,151,107)",
+        "Code": "BCP-0996",
+        "Name": "Spice Cookie"
+    },
+    {
+        "rgbCode": "rgb(203,140,92)",
+        "Code": "BCP-0997",
+        "Name": "Gates of Gold"
+    },
+    {
+        "rgbCode": "rgb(175,115,70)",
+        "Code": "BCP-0998",
+        "Name": "Gold Metal"
+    },
+    {
+        "rgbCode": "rgb(245,228,210)",
+        "Code": "BCP-0999",
+        "Name": "Ivory Tassel"
+    },
+    {
+        "rgbCode": "rgb(243,217,192)",
+        "Code": "BCP-1000",
+        "Name": "Flower of Oahu"
+    },
+    {
+        "rgbCode": "rgb(243,206,178)",
+        "Code": "BCP-1001",
+        "Name": "Cheddar Corn"
+    },
+    {
+        "rgbCode": "rgb(220,178,150)",
+        "Code": "BCP-1002",
+        "Name": "Tea Cookie"
+    },
+    {
+        "rgbCode": "rgb(212,164,132)",
+        "Code": "BCP-1003",
+        "Name": "Sweet Sue"
+    },
+    {
+        "rgbCode": "rgb(188,131,96)",
+        "Code": "BCP-1004",
+        "Name": "Peace of Mind"
+    },
+    {
+        "rgbCode": "rgb(165,107,75)",
+        "Code": "BCP-1005",
+        "Name": "Flickering Flame"
+    },
+    {
+        "rgbCode": "rgb(241,211,187)",
+        "Code": "BCP-1006",
+        "Name": "Turkscap"
+    },
+    {
+        "rgbCode": "rgb(239,198,171)",
+        "Code": "BCP-1007",
+        "Name": "Pastel Peach"
+    },
+    {
+        "rgbCode": "rgb(233,199,161)",
+        "Code": "BCP-1008",
+        "Name": "Mango Tango"
+    },
+    {
+        "rgbCode": "rgb(220,171,143)",
+        "Code": "BCP-1009",
+        "Name": "Bedtime Story"
+    },
+    {
+        "rgbCode": "rgb(200,144,112)",
+        "Code": "BCP-1010",
+        "Name": "Peanut Brittle"
+    },
+    {
+        "rgbCode": "rgb(176,114,78)",
+        "Code": "BCP-1011",
+        "Name": "Semolina"
+    },
+    {
+        "rgbCode": "rgb(153,93,59)",
+        "Code": "BCP-1012",
+        "Name": "Hampton Beach"
+    },
+    {
+        "rgbCode": "rgb(246,225,205)",
+        "Code": "BCP-1013",
+        "Name": "Warm Bread"
+    },
+    {
+        "rgbCode": "rgb(247,214,194)",
+        "Code": "BCP-1014",
+        "Name": "Muffin Magic"
+    },
+    {
+        "rgbCode": "rgb(242,205,183)",
+        "Code": "BCP-1015",
+        "Name": "Canter Peach"
+    },
+    {
+        "rgbCode": "rgb(235,174,141)",
+        "Code": "BCP-1016",
+        "Name": "November Leaf"
+    },
+    {
+        "rgbCode": "rgb(213,140,101)",
+        "Code": "BCP-1017",
+        "Name": "Summer's End"
+    },
+    {
+        "rgbCode": "rgb(201,129,89)",
+        "Code": "BCP-1018",
+        "Name": "Sunny Horizon"
+    },
+    {
+        "rgbCode": "rgb(174,105,66)",
+        "Code": "BCP-1019",
+        "Name": "Orange Ballad"
+    },
+    {
+        "rgbCode": "rgb(245,239,228)",
+        "Code": "BCP-1020",
+        "Name": "Rapture's Light"
+    },
+    {
+        "rgbCode": "rgb(250,233,218)",
+        "Code": "BCP-1021",
+        "Name": "Sweet Buttermilk"
+    },
+    {
+        "rgbCode": "rgb(251,210,184)",
+        "Code": "BCP-1022",
+        "Name": "Delicate Dawn"
+    },
+    {
+        "rgbCode": "rgb(252,200,170)",
+        "Code": "BCP-1023",
+        "Name": "Mellow Glow"
+    },
+    {
+        "rgbCode": "rgb(239,157,119)",
+        "Code": "BCP-1024",
+        "Name": "Pumpkin Hue"
+    },
+    {
+        "rgbCode": "rgb(224,134,89)",
+        "Code": "BCP-1025",
+        "Name": "Heat of Summer\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(198,100,60)",
+        "Code": "BCP-1026",
+        "Name": "Casa De Oro\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(247,238,225)",
+        "Code": "BCP-1027",
+        "Name": "Abstract White"
+    },
+    {
+        "rgbCode": "rgb(252,232,214)",
+        "Code": "BCP-1028",
+        "Name": "Verve"
+    },
+    {
+        "rgbCode": "rgb(253,225,202)",
+        "Code": "BCP-1029",
+        "Name": "Pale Blossom"
+    },
+    {
+        "rgbCode": "rgb(254,185,148)",
+        "Code": "BCP-1030",
+        "Name": "Wispy White"
+    },
+    {
+        "rgbCode": "rgb(252,159,115)",
+        "Code": "BCP-1031",
+        "Name": "Chickadee\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(246,135,79)",
+        "Code": "BCP-1032",
+        "Name": "Boredom Buster\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(223,109,57)",
+        "Code": "BCP-1033",
+        "Name": "Lava Lamp\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(245,203,177)",
+        "Code": "BCP-1034",
+        "Name": "Autumn Wind"
+    },
+    {
+        "rgbCode": "rgb(240,193,165)",
+        "Code": "BCP-1035",
+        "Name": "Spiced Cider"
+    },
+    {
+        "rgbCode": "rgb(233,174,145)",
+        "Code": "BCP-1036",
+        "Name": "Apricot Spring"
+    },
+    {
+        "rgbCode": "rgb(220,148,117)",
+        "Code": "BCP-1037",
+        "Name": "Trumpet Flower"
+    },
+    {
+        "rgbCode": "rgb(204,118,83)",
+        "Code": "BCP-1038",
+        "Name": "Jack-O-Lantern\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(167,95,67)",
+        "Code": "BCP-1039",
+        "Name": "Pretty Parasol"
+    },
+    {
+        "rgbCode": "rgb(148,75,62)",
+        "Code": "BCP-1040",
+        "Name": "Dark Marmalade"
+    },
+    {
+        "rgbCode": "rgb(252,230,215)",
+        "Code": "BCP-1041",
+        "Name": "Flowerbed"
+    },
+    {
+        "rgbCode": "rgb(255,219,201)",
+        "Code": "BCP-1042",
+        "Name": "Peak Season"
+    },
+    {
+        "rgbCode": "rgb(255,207,186)",
+        "Code": "BCP-1043",
+        "Name": "Mom's Love"
+    },
+    {
+        "rgbCode": "rgb(252,177,152)",
+        "Code": "BCP-1044",
+        "Name": "Shooting Star\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(244,151,121)",
+        "Code": "BCP-1045",
+        "Name": "Creamy Orange Blush"
+    },
+    {
+        "rgbCode": "rgb(241,125,89)",
+        "Code": "BCP-1046",
+        "Name": "Ballet Cream\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(228,92,56)",
+        "Code": "BCP-1047",
+        "Name": "Starfish\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(247,222,213)",
+        "Code": "BCP-1048",
+        "Name": "Pale Shrimp"
+    },
+    {
+        "rgbCode": "rgb(247,204,192)",
+        "Code": "BCP-1049",
+        "Name": "Salmon Mousse"
+    },
+    {
+        "rgbCode": "rgb(243,192,178)",
+        "Code": "BCP-1050",
+        "Name": "Salmon Beauty"
+    },
+    {
+        "rgbCode": "rgb(234,172,155)",
+        "Code": "BCP-1051",
+        "Name": "Stucco Wall"
+    },
+    {
+        "rgbCode": "rgb(213,128,109)",
+        "Code": "BCP-1052",
+        "Name": "Summer Memory\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(163,78,56)",
+        "Code": "BCP-1053",
+        "Name": "Sun's Rage\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(157,79,64)",
+        "Code": "BCP-1054",
+        "Name": "Carrot Cake"
+    },
+    {
+        "rgbCode": "rgb(239,228,218)",
+        "Code": "BCP-1055",
+        "Name": "White Meadow"
+    },
+    {
+        "rgbCode": "rgb(246,219,207)",
+        "Code": "BCP-1056",
+        "Name": "Elizabeth Rose"
+    },
+    {
+        "rgbCode": "rgb(238,193,176)",
+        "Code": "BCP-1057",
+        "Name": "Pink Satin"
+    },
+    {
+        "rgbCode": "rgb(227,166,148)",
+        "Code": "BCP-1058",
+        "Name": "Pale Terra"
+    },
+    {
+        "rgbCode": "rgb(212,147,132)",
+        "Code": "BCP-1059",
+        "Name": "Alexandra Peach"
+    },
+    {
+        "rgbCode": "rgb(189,119,103)",
+        "Code": "BCP-1060",
+        "Name": "First Lady"
+    },
+    {
+        "rgbCode": "rgb(136,68,55)",
+        "Code": "BCP-1061",
+        "Name": "April Love"
+    },
+    {
+        "rgbCode": "rgb(246,231,221)",
+        "Code": "BCP-1062",
+        "Name": "Albino"
+    },
+    {
+        "rgbCode": "rgb(248,207,194)",
+        "Code": "BCP-1063",
+        "Name": "Tiny Pink"
+    },
+    {
+        "rgbCode": "rgb(241,173,160)",
+        "Code": "BCP-1064",
+        "Name": "Mystic Tulip"
+    },
+    {
+        "rgbCode": "rgb(232,150,134)",
+        "Code": "BCP-1065",
+        "Name": "Rose Essence"
+    },
+    {
+        "rgbCode": "rgb(217,120,98)",
+        "Code": "BCP-1066",
+        "Name": "Sari\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(182,79,64)",
+        "Code": "BCP-1067",
+        "Name": "Sweet Baby Rose\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(183,84,69)",
+        "Code": "BCP-1068",
+        "Name": "Best of the Bunch\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(248,223,212)",
+        "Code": "BCP-1069",
+        "Name": "Pink Touch"
+    },
+    {
+        "rgbCode": "rgb(245,217,209)",
+        "Code": "BCP-1070",
+        "Name": "Peony Prize"
+    },
+    {
+        "rgbCode": "rgb(243,202,194)",
+        "Code": "BCP-1071",
+        "Name": "Cloud Number Nine"
+    },
+    {
+        "rgbCode": "rgb(232,172,163)",
+        "Code": "BCP-1072",
+        "Name": "Lusty Orange"
+    },
+    {
+        "rgbCode": "rgb(211,134,123)",
+        "Code": "BCP-1073",
+        "Name": "Graceful Ballerina"
+    },
+    {
+        "rgbCode": "rgb(196,112,101)",
+        "Code": "BCP-1074",
+        "Name": "It's My Party"
+    },
+    {
+        "rgbCode": "rgb(166,82,69)",
+        "Code": "BCP-1075",
+        "Name": "Cherry Blink\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(247,235,229)",
+        "Code": "BCP-1076",
+        "Name": "Baby Blossom"
+    },
+    {
+        "rgbCode": "rgb(247,221,218)",
+        "Code": "BCP-1077",
+        "Name": "Lady Anne"
+    },
+    {
+        "rgbCode": "rgb(254,203,201)",
+        "Code": "BCP-1078",
+        "Name": "Aromatic Breeze"
+    },
+    {
+        "rgbCode": "rgb(250,176,175)",
+        "Code": "BCP-1079",
+        "Name": "Wildflower Bouquet"
+    },
+    {
+        "rgbCode": "rgb(239,141,144)",
+        "Code": "BCP-1080",
+        "Name": "Cherished One"
+    },
+    {
+        "rgbCode": "rgb(210,68,57)",
+        "Code": "BCP-1081",
+        "Name": "Endless Possibilities\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(183,57,59)",
+        "Code": "BCP-1082",
+        "Name": "Tropical Heat\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(246,228,219)",
+        "Code": "BCP-1083",
+        "Name": "Morning Blush"
+    },
+    {
+        "rgbCode": "rgb(246,211,207)",
+        "Code": "BCP-1084",
+        "Name": "Go Go Pink"
+    },
+    {
+        "rgbCode": "rgb(247,198,197)",
+        "Code": "BCP-1085",
+        "Name": "Tint of Rose"
+    },
+    {
+        "rgbCode": "rgb(239,159,159)",
+        "Code": "BCP-1086",
+        "Name": "Nosegay"
+    },
+    {
+        "rgbCode": "rgb(223,123,121)",
+        "Code": "BCP-1087",
+        "Name": "Bay Coral\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(213,105,102)",
+        "Code": "BCP-1088",
+        "Name": "Childhood Crush\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(180,67,59)",
+        "Code": "BCP-1089",
+        "Name": "Chuckles\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(245,214,210)",
+        "Code": "BCP-1090",
+        "Name": "Tartlet"
+    },
+    {
+        "rgbCode": "rgb(243,201,201)",
+        "Code": "BCP-1091",
+        "Name": "All Dressed Up"
+    },
+    {
+        "rgbCode": "rgb(235,184,188)",
+        "Code": "BCP-1092",
+        "Name": "Petals Unfolding"
+    },
+    {
+        "rgbCode": "rgb(226,158,165)",
+        "Code": "BCP-1093",
+        "Name": "Wood Nymph"
+    },
+    {
+        "rgbCode": "rgb(209,127,134)",
+        "Code": "BCP-1094",
+        "Name": "Porcelain Rose\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(168,73,71)",
+        "Code": "BCP-1095",
+        "Name": "Empower\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(153,69,67)",
+        "Code": "BCP-1096",
+        "Name": "The Ego Has Landed\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(239,189,196)",
+        "Code": "BCP-1097",
+        "Name": "Pale Petunia"
+    },
+    {
+        "rgbCode": "rgb(236,173,183)",
+        "Code": "BCP-1098",
+        "Name": "Bubblegum Pink"
+    },
+    {
+        "rgbCode": "rgb(219,126,136)",
+        "Code": "BCP-1099",
+        "Name": "Dimple\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(203,90,99)",
+        "Code": "BCP-1100",
+        "Name": "Heart to Heart\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(191,68,66)",
+        "Code": "BCP-1101",
+        "Name": "Mullen Pink\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(180,68,72)",
+        "Code": "BCP-1102",
+        "Name": "Precious Peony\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(156,64,71)",
+        "Code": "BCP-1103",
+        "Name": "Moonrose\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(250,228,230)",
+        "Code": "BCP-1104",
+        "Name": "Valerie"
+    },
+    {
+        "rgbCode": "rgb(254,216,225)",
+        "Code": "BCP-1105",
+        "Name": "It's A Girl!"
+    },
+    {
+        "rgbCode": "rgb(248,186,203)",
+        "Code": "BCP-1106",
+        "Name": "Garden Glory\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(238,139,164)",
+        "Code": "BCP-1107",
+        "Name": "Bunny Fluff\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(230,110,135)",
+        "Code": "BCP-1108",
+        "Name": "Pink Explosion\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(196,49,51)",
+        "Code": "BCP-1109",
+        "Name": "Party Time\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(168,54,56)",
+        "Code": "BCP-1110",
+        "Name": "Unmatched Beauty\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(247,225,225)",
+        "Code": "BCP-1111",
+        "Name": "Royal Wedding"
+    },
+    {
+        "rgbCode": "rgb(247,217,220)",
+        "Code": "BCP-1112",
+        "Name": "Wishful Thinking"
+    },
+    {
+        "rgbCode": "rgb(249,205,211)",
+        "Code": "BCP-1113",
+        "Name": "Fruitbowl"
+    },
+    {
+        "rgbCode": "rgb(249,189,200)",
+        "Code": "BCP-1114",
+        "Name": "A Lot of Love"
+    },
+    {
+        "rgbCode": "rgb(230,139,156)",
+        "Code": "BCP-1115",
+        "Name": "Dollie"
+    },
+    {
+        "rgbCode": "rgb(184,46,56)",
+        "Code": "BCP-1116",
+        "Name": "Movie Star\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(154,57,58)",
+        "Code": "BCP-1117",
+        "Name": "Siren\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(247,235,236)",
+        "Code": "BCP-1118",
+        "Name": "Cotton Candy"
+    },
+    {
+        "rgbCode": "rgb(246,219,227)",
+        "Code": "BCP-1119",
+        "Name": "Sweet Pea"
+    },
+    {
+        "rgbCode": "rgb(243,205,219)",
+        "Code": "BCP-1120",
+        "Name": "Summer Cosmos"
+    },
+    {
+        "rgbCode": "rgb(239,186,208)",
+        "Code": "BCP-1121",
+        "Name": "Dahlia Delight"
+    },
+    {
+        "rgbCode": "rgb(237,175,201)",
+        "Code": "BCP-1122",
+        "Name": "Rose Mallow\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(210,104,144)",
+        "Code": "BCP-1123",
+        "Name": "Groovy\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(150,50,66)",
+        "Code": "BCP-1124",
+        "Name": "Velvet Cake\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(243,222,226)",
+        "Code": "BCP-1125",
+        "Name": "Hepatica"
+    },
+    {
+        "rgbCode": "rgb(238,201,211)",
+        "Code": "BCP-1126",
+        "Name": "Seashell Pink"
+    },
+    {
+        "rgbCode": "rgb(220,160,181)",
+        "Code": "BCP-1127",
+        "Name": "Pepto"
+    },
+    {
+        "rgbCode": "rgb(198,119,141)",
+        "Code": "BCP-1128",
+        "Name": "Minuette"
+    },
+    {
+        "rgbCode": "rgb(166,76,91)",
+        "Code": "BCP-1129",
+        "Name": "Punky Pink\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(157,64,88)",
+        "Code": "BCP-1130",
+        "Name": "Obsession\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(160,62,99)",
+        "Code": "BCP-1131",
+        "Name": "Can Can"
+    },
+    {
+        "rgbCode": "rgb(238,194,205)",
+        "Code": "BCP-1132",
+        "Name": "Sullivan's Heart"
+    },
+    {
+        "rgbCode": "rgb(237,186,199)",
+        "Code": "BCP-1133",
+        "Name": "Christy's Smile"
+    },
+    {
+        "rgbCode": "rgb(224,157,177)",
+        "Code": "BCP-1134",
+        "Name": "Pegeen Peony"
+    },
+    {
+        "rgbCode": "rgb(198,116,139)",
+        "Code": "BCP-1135",
+        "Name": "Glam\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(142,65,73)",
+        "Code": "BCP-1136",
+        "Name": "Romp"
+    },
+    {
+        "rgbCode": "rgb(149,68,75)",
+        "Code": "BCP-1137",
+        "Name": "Ode to Joy"
+    },
+    {
+        "rgbCode": "rgb(141,58,61)",
+        "Code": "BCP-1138",
+        "Name": "Romantic Night"
+    },
+    {
+        "rgbCode": "rgb(242,218,219)",
+        "Code": "BCP-1139",
+        "Name": "Tutu"
+    },
+    {
+        "rgbCode": "rgb(240,207,211)",
+        "Code": "BCP-1140",
+        "Name": "First Daughter"
+    },
+    {
+        "rgbCode": "rgb(238,193,201)",
+        "Code": "BCP-1141",
+        "Name": "Deco Pink"
+    },
+    {
+        "rgbCode": "rgb(218,156,168)",
+        "Code": "BCP-1142",
+        "Name": "Vintage Victorian"
+    },
+    {
+        "rgbCode": "rgb(206,135,149)",
+        "Code": "BCP-1143",
+        "Name": "Rambling Rose"
+    },
+    {
+        "rgbCode": "rgb(181,95,106)",
+        "Code": "BCP-1144",
+        "Name": "Temptress\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(157,50,64)",
+        "Code": "BCP-1145",
+        "Name": "Romeo O Romeo\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(243,231,232)",
+        "Code": "BCP-1146",
+        "Name": "Morning Shine"
+    },
+    {
+        "rgbCode": "rgb(238,216,222)",
+        "Code": "BCP-1147",
+        "Name": "Columbine"
+    },
+    {
+        "rgbCode": "rgb(232,201,214)",
+        "Code": "BCP-1148",
+        "Name": "Persian Delight"
+    },
+    {
+        "rgbCode": "rgb(229,190,209)",
+        "Code": "BCP-1149",
+        "Name": "Parrot Tulip"
+    },
+    {
+        "rgbCode": "rgb(211,167,191)",
+        "Code": "BCP-1150",
+        "Name": "Pink Beauty"
+    },
+    {
+        "rgbCode": "rgb(173,113,143)",
+        "Code": "BCP-1151",
+        "Name": "Fuscia Fizz"
+    },
+    {
+        "rgbCode": "rgb(126,62,93)",
+        "Code": "BCP-1152",
+        "Name": "Berry Patch"
+    },
+    {
+        "rgbCode": "rgb(244,237,235)",
+        "Code": "BCP-1153",
+        "Name": "Vienna Dawn"
+    },
+    {
+        "rgbCode": "rgb(243,227,233)",
+        "Code": "BCP-1154",
+        "Name": "Viola"
+    },
+    {
+        "rgbCode": "rgb(239,207,229)",
+        "Code": "BCP-1155",
+        "Name": "Little Smile"
+    },
+    {
+        "rgbCode": "rgb(235,191,222)",
+        "Code": "BCP-1156",
+        "Name": "Pink Heath"
+    },
+    {
+        "rgbCode": "rgb(220,156,199)",
+        "Code": "BCP-1157",
+        "Name": "Blossoms in Spring"
+    },
+    {
+        "rgbCode": "rgb(203,112,170)",
+        "Code": "BCP-1158",
+        "Name": "Purple Hollyhock"
+    },
+    {
+        "rgbCode": "rgb(152,57,95)",
+        "Code": "BCP-1159",
+        "Name": "Bridesmaid"
+    },
+    {
+        "rgbCode": "rgb(240,222,230)",
+        "Code": "BCP-1160",
+        "Name": "Petal Poise"
+    },
+    {
+        "rgbCode": "rgb(236,213,227)",
+        "Code": "BCP-1161",
+        "Name": "Nursery Pink"
+    },
+    {
+        "rgbCode": "rgb(230,196,221)",
+        "Code": "BCP-1162",
+        "Name": "Venetian Rose"
+    },
+    {
+        "rgbCode": "rgb(207,166,202)",
+        "Code": "BCP-1163",
+        "Name": "Tiara Pink"
+    },
+    {
+        "rgbCode": "rgb(194,147,189)",
+        "Code": "BCP-1164",
+        "Name": "Carnation Rose"
+    },
+    {
+        "rgbCode": "rgb(168,112,161)",
+        "Code": "BCP-1165",
+        "Name": "Pink Parade"
+    },
+    {
+        "rgbCode": "rgb(107,63,84)",
+        "Code": "BCP-1166",
+        "Name": "Noble Honor"
+    },
+    {
+        "rgbCode": "rgb(233,218,220)",
+        "Code": "BCP-1167",
+        "Name": "Dream State"
+    },
+    {
+        "rgbCode": "rgb(218,195,210)",
+        "Code": "BCP-1168",
+        "Name": "Marvelous Magic"
+    },
+    {
+        "rgbCode": "rgb(212,180,201)",
+        "Code": "BCP-1169",
+        "Name": "Baby Girl"
+    },
+    {
+        "rgbCode": "rgb(180,137,169)",
+        "Code": "BCP-1170",
+        "Name": "Lavender Quartz"
+    },
+    {
+        "rgbCode": "rgb(158,115,151)",
+        "Code": "BCP-1171",
+        "Name": "Teen Queen"
+    },
+    {
+        "rgbCode": "rgb(140,92,126)",
+        "Code": "BCP-1172",
+        "Name": "Immortality"
+    },
+    {
+        "rgbCode": "rgb(95,68,84)",
+        "Code": "BCP-1173",
+        "Name": "Purple Stiletto"
+    },
+    {
+        "rgbCode": "rgb(241,233,230)",
+        "Code": "BCP-1174",
+        "Name": "Little Pinky"
+    },
+    {
+        "rgbCode": "rgb(238,221,229)",
+        "Code": "BCP-1175",
+        "Name": "Taffeta Tint"
+    },
+    {
+        "rgbCode": "rgb(230,205,225)",
+        "Code": "BCP-1176",
+        "Name": "Poodle Pink"
+    },
+    {
+        "rgbCode": "rgb(221,188,219)",
+        "Code": "BCP-1177",
+        "Name": "Rosy Cheeks"
+    },
+    {
+        "rgbCode": "rgb(183,146,194)",
+        "Code": "BCP-1178",
+        "Name": "Rose Souvenir"
+    },
+    {
+        "rgbCode": "rgb(164,119,173)",
+        "Code": "BCP-1179",
+        "Name": "Moonlight Melody"
+    },
+    {
+        "rgbCode": "rgb(98,66,103)",
+        "Code": "BCP-1180",
+        "Name": "Berry Light"
+    },
+    {
+        "rgbCode": "rgb(233,216,227)",
+        "Code": "BCP-1181",
+        "Name": "Violet Ash"
+    },
+    {
+        "rgbCode": "rgb(225,205,224)",
+        "Code": "BCP-1182",
+        "Name": "Lilacs in Spring"
+    },
+    {
+        "rgbCode": "rgb(214,188,217)",
+        "Code": "BCP-1183",
+        "Name": "Romantic Ballad"
+    },
+    {
+        "rgbCode": "rgb(193,168,203)",
+        "Code": "BCP-1184",
+        "Name": "Graceful Garden"
+    },
+    {
+        "rgbCode": "rgb(170,143,185)",
+        "Code": "BCP-1185",
+        "Name": "Satin Flower"
+    },
+    {
+        "rgbCode": "rgb(153,123,166)",
+        "Code": "BCP-1186",
+        "Name": "Pleasant Dream"
+    },
+    {
+        "rgbCode": "rgb(90,62,95)",
+        "Code": "BCP-1187",
+        "Name": "Joyous Song"
+    },
+    {
+        "rgbCode": "rgb(232,218,230)",
+        "Code": "BCP-1188",
+        "Name": "Maiden of the Mist"
+    },
+    {
+        "rgbCode": "rgb(223,206,227)",
+        "Code": "BCP-1189",
+        "Name": "Little Touch"
+    },
+    {
+        "rgbCode": "rgb(214,191,222)",
+        "Code": "BCP-1190",
+        "Name": "Glittering Gemstone"
+    },
+    {
+        "rgbCode": "rgb(194,173,211)",
+        "Code": "BCP-1191",
+        "Name": "Cherish the Moment"
+    },
+    {
+        "rgbCode": "rgb(171,148,197)",
+        "Code": "BCP-1192",
+        "Name": "Cut Velvet"
+    },
+    {
+        "rgbCode": "rgb(141,114,171)",
+        "Code": "BCP-1193",
+        "Name": "Crown Jewels"
+    },
+    {
+        "rgbCode": "rgb(93,70,109)",
+        "Code": "BCP-1194",
+        "Name": "Magenta Red Lips"
+    },
+    {
+        "rgbCode": "rgb(233,224,227)",
+        "Code": "BCP-1195",
+        "Name": "Rosie Posie"
+    },
+    {
+        "rgbCode": "rgb(220,202,216)",
+        "Code": "BCP-1196",
+        "Name": "Naughty Marietta"
+    },
+    {
+        "rgbCode": "rgb(208,184,205)",
+        "Code": "BCP-1197",
+        "Name": "Lavender Veil"
+    },
+    {
+        "rgbCode": "rgb(187,172,193)",
+        "Code": "BCP-1198",
+        "Name": "Heather Feather"
+    },
+    {
+        "rgbCode": "rgb(166,146,173)",
+        "Code": "BCP-1199",
+        "Name": "Enthroned Above"
+    },
+    {
+        "rgbCode": "rgb(138,116,144)",
+        "Code": "BCP-1200",
+        "Name": "Felicia"
+    },
+    {
+        "rgbCode": "rgb(90,72,90)",
+        "Code": "BCP-1201",
+        "Name": "Dreamy Heaven"
+    },
+    {
+        "rgbCode": "rgb(236,219,218)",
+        "Code": "BCP-1202",
+        "Name": "Daring Deception"
+    },
+    {
+        "rgbCode": "rgb(219,197,209)",
+        "Code": "BCP-1203",
+        "Name": "Etcetera"
+    },
+    {
+        "rgbCode": "rgb(209,183,200)",
+        "Code": "BCP-1204",
+        "Name": "Noteworthy"
+    },
+    {
+        "rgbCode": "rgb(170,141,166)",
+        "Code": "BCP-1205",
+        "Name": "Fashionably Plum"
+    },
+    {
+        "rgbCode": "rgb(151,119,150)",
+        "Code": "BCP-1206",
+        "Name": "Screen Gem\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(130,98,127)",
+        "Code": "BCP-1207",
+        "Name": "Orchid Orchestra\n*For interior only"
+    },
+    {
+        "rgbCode": "rgb(89,70,88)",
+        "Code": "BCP-1208",
+        "Name": "Crowd Pleaser"
+    },
+    {
+        "rgbCode": "rgb(230,215,217)",
+        "Code": "BCP-1209",
+        "Name": "Princess Irene"
+    },
+    {
+        "rgbCode": "rgb(218,197,205)",
+        "Code": "BCP-1210",
+        "Name": "French Lavender"
+    },
+    {
+        "rgbCode": "rgb(206,181,193)",
+        "Code": "BCP-1211",
+        "Name": "Lavender Blessing"
+    },
+    {
+        "rgbCode": "rgb(184,162,177)",
+        "Code": "BCP-1212",
+        "Name": "Pansy Posie"
+    },
+    {
+        "rgbCode": "rgb(154,129,148)",
+        "Code": "BCP-1213",
+        "Name": "Berry Bright"
+    },
+    {
+        "rgbCode": "rgb(123,96,113)",
+        "Code": "BCP-1214",
+        "Name": "Majestic Plum"
+    },
+    {
+        "rgbCode": "rgb(71,59,68)",
+        "Code": "BCP-1215",
+        "Name": "Purple Shadow"
+    },
+    {
+        "rgbCode": "rgb(235,224,219)",
+        "Code": "BCP-1216",
+        "Name": "Aimee"
+    },
+    {
+        "rgbCode": "rgb(222,209,210)",
+        "Code": "BCP-1217",
+        "Name": "Velvet Blush"
+    },
+    {
+        "rgbCode": "rgb(210,195,200)",
+        "Code": "BCP-1218",
+        "Name": "Odyssey Lilac"
+    },
+    {
+        "rgbCode": "rgb(191,171,181)",
+        "Code": "BCP-1219",
+        "Name": "Desire\u00e9"
+    },
+    {
+        "rgbCode": "rgb(176,153,167)",
+        "Code": "BCP-1220",
+        "Name": "Play Time"
+    },
+    {
+        "rgbCode": "rgb(135,111,125)",
+        "Code": "BCP-1221",
+        "Name": "Charming Violet"
+    },
+    {
+        "rgbCode": "rgb(84,65,73)",
+        "Code": "BCP-1222",
+        "Name": "Grape Soda"
+    },
+    {
+        "rgbCode": "rgb(228,219,224)",
+        "Code": "BCP-1223",
+        "Name": "Ostrich Tail"
+    },
+    {
+        "rgbCode": "rgb(208,196,209)",
+        "Code": "BCP-1224",
+        "Name": "Fragrant Snowbell"
+    },
+    {
+        "rgbCode": "rgb(181,166,188)",
+        "Code": "BCP-1225",
+        "Name": "Velour"
+    },
+    {
+        "rgbCode": "rgb(141,125,150)",
+        "Code": "BCP-1226",
+        "Name": "Imagine That"
+    },
+    {
+        "rgbCode": "rgb(91,78,98)",
+        "Code": "BCP-1227",
+        "Name": "Vivid Vision"
+    },
+    {
+        "rgbCode": "rgb(73,61,73)",
+        "Code": "BCP-1228",
+        "Name": "Petunia Patty"
+    },
+    {
+        "rgbCode": "rgb(64,57,61)",
+        "Code": "BCP-1229",
+        "Name": "Eleanor Ann"
+    },
+    {
+        "rgbCode": "rgb(236,228,228)",
+        "Code": "BCP-1230",
+        "Name": "Crescent Moon"
+    },
+    {
+        "rgbCode": "rgb(230,221,227)",
+        "Code": "BCP-1231",
+        "Name": "Hosta Flower"
+    },
+    {
+        "rgbCode": "rgb(220,212,224)",
+        "Code": "BCP-1232",
+        "Name": "Flowers of May"
+    },
+    {
+        "rgbCode": "rgb(201,190,216)",
+        "Code": "BCP-1233",
+        "Name": "Plum Cake"
+    },
+    {
+        "rgbCode": "rgb(183,173,203)",
+        "Code": "BCP-1234",
+        "Name": "Grape's Treasure"
+    },
+    {
+        "rgbCode": "rgb(155,147,183)",
+        "Code": "BCP-1235",
+        "Name": "Yolanda"
+    },
+    {
+        "rgbCode": "rgb(86,71,101)",
+        "Code": "BCP-1236",
+        "Name": "Sunset Serenade"
+    },
+    {
+        "rgbCode": "rgb(232,227,231)",
+        "Code": "BCP-1237",
+        "Name": "Easter Bunny"
+    },
+    {
+        "rgbCode": "rgb(223,217,230)",
+        "Code": "BCP-1238",
+        "Name": "Fairytale"
+    },
+    {
+        "rgbCode": "rgb(213,205,227)",
+        "Code": "BCP-1239",
+        "Name": "Plum's the Word"
+    },
+    {
+        "rgbCode": "rgb(197,187,222)",
+        "Code": "BCP-1240",
+        "Name": "Drifting Dream"
+    },
+    {
+        "rgbCode": "rgb(173,167,209)",
+        "Code": "BCP-1241",
+        "Name": "Grape Illusion"
+    },
+    {
+        "rgbCode": "rgb(156,151,199)",
+        "Code": "BCP-1242",
+        "Name": "Gorgeous Hydrangea"
+    },
+    {
+        "rgbCode": "rgb(87,77,119)",
+        "Code": "BCP-1243",
+        "Name": "When Red Met Blue"
+    },
+    {
+        "rgbCode": "rgb(223,221,227)",
+        "Code": "BCP-1244",
+        "Name": "White Bud"
+    },
+    {
+        "rgbCode": "rgb(212,211,225)",
+        "Code": "BCP-1245",
+        "Name": "Perfection"
+    },
+    {
+        "rgbCode": "rgb(195,197,219)",
+        "Code": "BCP-1246",
+        "Name": "Purple Purity"
+    },
+    {
+        "rgbCode": "rgb(153,160,196)",
+        "Code": "BCP-1247",
+        "Name": "May Mist"
+    },
+    {
+        "rgbCode": "rgb(138,147,185)",
+        "Code": "BCP-1248",
+        "Name": "Velvet Crest"
+    },
+    {
+        "rgbCode": "rgb(110,114,155)",
+        "Code": "BCP-1249",
+        "Name": "Purple Spire"
+    },
+    {
+        "rgbCode": "rgb(75,74,106)",
+        "Code": "BCP-1250",
+        "Name": "True Romance"
+    },
+    {
+        "rgbCode": "rgb(210,206,222)",
+        "Code": "BCP-1251",
+        "Name": "Mountain's Majesty"
+    },
+    {
+        "rgbCode": "rgb(200,193,216)",
+        "Code": "BCP-1252",
+        "Name": "Lavender Bliss"
+    },
+    {
+        "rgbCode": "rgb(177,175,202)",
+        "Code": "BCP-1253",
+        "Name": "Petunia Trail"
+    },
+    {
+        "rgbCode": "rgb(154,157,196)",
+        "Code": "BCP-1254",
+        "Name": "Purple Vision"
+    },
+    {
+        "rgbCode": "rgb(149,151,193)",
+        "Code": "BCP-1255",
+        "Name": "Purple Haze"
+    },
+    {
+        "rgbCode": "rgb(117,117,166)",
+        "Code": "BCP-1256",
+        "Name": "Plum Preserve"
+    },
+    {
+        "rgbCode": "rgb(77,73,108)",
+        "Code": "BCP-1257",
+        "Name": "Voldemort"
+    },
+    {
+        "rgbCode": "rgb(225,226,231)",
+        "Code": "BCP-1258",
+        "Name": "Sweet Flower"
+    },
+    {
+        "rgbCode": "rgb(214,217,231)",
+        "Code": "BCP-1259",
+        "Name": "Eyeshadow"
+    },
+    {
+        "rgbCode": "rgb(183,190,223)",
+        "Code": "BCP-1260",
+        "Name": "Pretty Posie"
+    },
+    {
+        "rgbCode": "rgb(159,170,211)",
+        "Code": "BCP-1261",
+        "Name": "Childish Wonder"
+    },
+    {
+        "rgbCode": "rgb(133,146,199)",
+        "Code": "BCP-1262",
+        "Name": "Bailey Bells"
+    },
+    {
+        "rgbCode": "rgb(100,114,175)",
+        "Code": "BCP-1263",
+        "Name": "Medieval"
+    },
+    {
+        "rgbCode": "rgb(73,80,127)",
+        "Code": "BCP-1264",
+        "Name": "Altar of Heaven"
+    },
+    {
+        "rgbCode": "rgb(242,238,233)",
+        "Code": "BCP-1265",
+        "Name": "White Shoulders"
+    },
+    {
+        "rgbCode": "rgb(224,224,230)",
+        "Code": "BCP-1266",
+        "Name": "Penelope"
+    },
+    {
+        "rgbCode": "rgb(199,206,225)",
+        "Code": "BCP-1267",
+        "Name": "Casa del Mar"
+    },
+    {
+        "rgbCode": "rgb(179,191,225)",
+        "Code": "BCP-1268",
+        "Name": "Spoiled Rotten"
+    },
+    {
+        "rgbCode": "rgb(125,148,199)",
+        "Code": "BCP-1269",
+        "Name": "Mood Mode"
+    },
+    {
+        "rgbCode": "rgb(101,123,181)",
+        "Code": "BCP-1270",
+        "Name": "Wind Star"
+    },
+    {
+        "rgbCode": "rgb(63,70,118)",
+        "Code": "BCP-1271",
+        "Name": "Hot Sauna"
+    },
+    {
+        "rgbCode": "rgb(231,231,226)",
+        "Code": "BCP-1272",
+        "Name": "Angel Kiss"
+    },
+    {
+        "rgbCode": "rgb(198,207,222)",
+        "Code": "BCP-1273",
+        "Name": "Wildflower Prairie"
+    },
+    {
+        "rgbCode": "rgb(184,195,218)",
+        "Code": "BCP-1274",
+        "Name": "Genevieve"
+    },
+    {
+        "rgbCode": "rgb(162,178,211)",
+        "Code": "BCP-1275",
+        "Name": "High Style"
+    },
+    {
+        "rgbCode": "rgb(142,159,200)",
+        "Code": "BCP-1276",
+        "Name": "Velvet Robe"
+    },
+    {
+        "rgbCode": "rgb(101,122,172)",
+        "Code": "BCP-1277",
+        "Name": "Regal Azure"
+    },
+    {
+        "rgbCode": "rgb(79,98,147)",
+        "Code": "BCP-1278",
+        "Name": "Fresh Take"
+    },
+    {
+        "rgbCode": "rgb(222,217,222)",
+        "Code": "BCP-1279",
+        "Name": "He Loves Me"
+    },
+    {
+        "rgbCode": "rgb(208,203,215)",
+        "Code": "BCP-1280",
+        "Name": "Lilac Luster"
+    },
+    {
+        "rgbCode": "rgb(185,183,202)",
+        "Code": "BCP-1281",
+        "Name": "Collensia"
+    },
+    {
+        "rgbCode": "rgb(158,161,182)",
+        "Code": "BCP-1282",
+        "Name": "Butterfly Bush"
+    },
+    {
+        "rgbCode": "rgb(144,147,170)",
+        "Code": "BCP-1283",
+        "Name": "Lavender Spectacle"
+    },
+    {
+        "rgbCode": "rgb(100,101,125)",
+        "Code": "BCP-1284",
+        "Name": "Grapes of Wrath"
+    },
+    {
+        "rgbCode": "rgb(70,69,82)",
+        "Code": "BCP-1285",
+        "Name": "Jazlyn"
+    },
+    {
+        "rgbCode": "rgb(229,224,225)",
+        "Code": "BCP-1286",
+        "Name": "Lavender Pizzazz"
+    },
+    {
+        "rgbCode": "rgb(196,192,204)",
+        "Code": "BCP-1287",
+        "Name": "Orchid Fragrance"
+    },
+    {
+        "rgbCode": "rgb(176,174,191)",
+        "Code": "BCP-1288",
+        "Name": "Violet Crush"
+    },
+    {
+        "rgbCode": "rgb(150,148,166)",
+        "Code": "BCP-1289",
+        "Name": "Lilac Blossom"
+    },
+    {
+        "rgbCode": "rgb(133,129,150)",
+        "Code": "BCP-1290",
+        "Name": "Violet Vibes"
+    },
+    {
+        "rgbCode": "rgb(120,116,135)",
+        "Code": "BCP-1291",
+        "Name": "Dancing in the Spring"
+    },
+    {
+        "rgbCode": "rgb(81,74,87)",
+        "Code": "BCP-1292",
+        "Name": "Plum Perfect"
+    },
+    {
+        "rgbCode": "rgb(221,215,224)",
+        "Code": "BCP-1293",
+        "Name": "Violet Pearl"
+    },
+    {
+        "rgbCode": "rgb(215,211,219)",
+        "Code": "BCP-1294",
+        "Name": "Lavender Scent"
+    },
+    {
+        "rgbCode": "rgb(205,198,211)",
+        "Code": "BCP-1295",
+        "Name": "Gypsy Caravan"
+    },
+    {
+        "rgbCode": "rgb(182,177,198)",
+        "Code": "BCP-1296",
+        "Name": "Violet Beauty"
+    },
+    {
+        "rgbCode": "rgb(164,159,184)",
+        "Code": "BCP-1297",
+        "Name": "Royal Proclamation"
+    },
+    {
+        "rgbCode": "rgb(125,119,150)",
+        "Code": "BCP-1298",
+        "Name": "Queen of Sheba"
+    },
+    {
+        "rgbCode": "rgb(88,74,94)",
+        "Code": "BCP-1299",
+        "Name": "Soul Train"
+    },
+    {
+        "rgbCode": "rgb(234,224,222)",
+        "Code": "BCP-1300",
+        "Name": "Winged Victory"
+    },
+    {
+        "rgbCode": "rgb(227,215,214)",
+        "Code": "BCP-1301",
+        "Name": "Lavender Bikini"
+    },
+    {
+        "rgbCode": "rgb(183,174,183)",
+        "Code": "BCP-1302",
+        "Name": "Heather Hill"
+    },
+    {
+        "rgbCode": "rgb(154,145,156)",
+        "Code": "BCP-1303",
+        "Name": "Cut Heather"
+    },
+    {
+        "rgbCode": "rgb(138,127,136)",
+        "Code": "BCP-1304",
+        "Name": "Iced Orchid"
+    },
+    {
+        "rgbCode": "rgb(119,108,118)",
+        "Code": "BCP-1305",
+        "Name": "Victorian Violet"
+    },
+    {
+        "rgbCode": "rgb(80,65,77)",
+        "Code": "BCP-1306",
+        "Name": "Royal Velvet"
+    },
+    {
+        "rgbCode": "rgb(228,222,218)",
+        "Code": "BCP-1307",
+        "Name": "Clytemnestra"
+    },
+    {
+        "rgbCode": "rgb(213,203,207)",
+        "Code": "BCP-1308",
+        "Name": "Stardust Ballroom"
+    },
+    {
+        "rgbCode": "rgb(200,188,196)",
+        "Code": "BCP-1309",
+        "Name": "So Dainty"
+    },
+    {
+        "rgbCode": "rgb(185,173,185)",
+        "Code": "BCP-1310",
+        "Name": "Velvet Dawn"
+    },
+    {
+        "rgbCode": "rgb(161,150,165)",
+        "Code": "BCP-1311",
+        "Name": "Gypsy's Gown"
+    },
+    {
+        "rgbCode": "rgb(120,106,121)",
+        "Code": "BCP-1312",
+        "Name": "Southern Belle"
+    },
+    {
+        "rgbCode": "rgb(78,69,77)",
+        "Code": "BCP-1313",
+        "Name": "My Place or Yours?"
+    },
+    {
+        "rgbCode": "rgb(214,212,214)",
+        "Code": "BCP-1314",
+        "Name": "Desired Dawn"
+    },
+    {
+        "rgbCode": "rgb(203,203,207)",
+        "Code": "BCP-1315",
+        "Name": "Calamities"
+    },
+    {
+        "rgbCode": "rgb(187,187,195)",
+        "Code": "BCP-1316",
+        "Name": "Savoy"
+    },
+    {
+        "rgbCode": "rgb(171,173,181)",
+        "Code": "BCP-1317",
+        "Name": "Buffed Plum"
+    },
+    {
+        "rgbCode": "rgb(149,153,165)",
+        "Code": "BCP-1318",
+        "Name": "Dusky Mood"
+    },
+    {
+        "rgbCode": "rgb(102,109,121)",
+        "Code": "BCP-1319",
+        "Name": "Overlook"
+    },
+    {
+        "rgbCode": "rgb(84,87,98)",
+        "Code": "BCP-1320",
+        "Name": "Blackwater"
+    }
+]
