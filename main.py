@@ -21,19 +21,21 @@ def main():
         palletContainer = colorsInformation.find('div', class_ = 'style-module--itemcolor--25c2b')
         palletCode = colorsInformation.find('div', class_ = 'style-module--itemtitlecode--b7bf0').text.strip()
         palletName = colorsInformation.find('div', class_='style-module--itemtitlename--9451b').text.strip()
-        for pallet in palletContainer.children:
-            content = pallet.get('style').split(';')
-            for pallet in content:
-                if ('background-color') in pallet:
-                    colorCode = pallet.split(':')[1].strip()
-                    colors['rgbCode'] = colorCode
+        if ("*For" not in palletName):
+            for pallet in palletContainer.children:
+                content = pallet.get('style').split(';')
+                for pallet in content:
+                    if ('background-color') in pallet:
+                        colorCode = pallet.split(':')[1].strip()
+                        colors['rgbCode'] = colorCode
 
-        colors['Code'] = palletCode
-        colors['Name'] = palletName
-        colorCollections.append(colors)
+            colors['Code'] = palletCode
+            colors['Name'] = palletName
+            colorCollections.append(colors)
 
     with open('colorMedleyCollection.json', 'w') as file:
         json.dump(colorCollections, file, indent=4)
+    print(colorCollections)
 
 if __name__ == "__main__":
     main()

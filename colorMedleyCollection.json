@@ -30,11 +30,6 @@
         "Name": "Enchanted White"
     },
     {
-        "rgbCode": "rgb(215,131,156)",
-        "Code": "BM-0007",
-        "Name": "Power Pink\n*For interior only"
-    },
-    {
         "rgbCode": "rgb(137,147,150)",
         "Code": "BM-0008",
         "Name": "Fossil"
@@ -155,11 +150,6 @@
         "Name": "White Delight"
     },
     {
-        "rgbCode": "rgb(213,141,108)",
-        "Code": "BM-0032",
-        "Name": "Big Bounce\n*For interior only"
-    },
-    {
         "rgbCode": "rgb(251,238,221)",
         "Code": "BM-0033",
         "Name": "Vanilla Ice"
@@ -268,11 +258,6 @@
         "rgbCode": "rgb(150,105,82)",
         "Code": "BM-0054",
         "Name": "Brown Ben"
-    },
-    {
-        "rgbCode": "rgb(228,162,111)",
-        "Code": "BM-0055",
-        "Name": "Pumpkin Patch\n*For interior only"
     },
     {
         "rgbCode": "rgb(179,182,179)",
@@ -390,11 +375,6 @@
         "Name": "Hint of Mint"
     },
     {
-        "rgbCode": "rgb(247,193,112)",
-        "Code": "BM-0079",
-        "Name": "Autumn Gold\n*For interior only"
-    },
-    {
         "rgbCode": "rgb(139,128,110)",
         "Code": "BM-0080",
         "Name": "Safari Day"
@@ -433,11 +413,6 @@
         "rgbCode": "rgb(241,224,194)",
         "Code": "BM-0087",
         "Name": "Angel's Halo"
-    },
-    {
-        "rgbCode": "rgb(245,144,72)",
-        "Code": "BM-0088",
-        "Name": "Tangerinette\n*For interior only"
     },
     {
         "rgbCode": "rgb(242,223,193)",
@@ -585,11 +560,6 @@
         "Name": "Lichen"
     },
     {
-        "rgbCode": "rgb(191,167,97)",
-        "Code": "BM-0118",
-        "Name": "Racing Greens\n*For interior only"
-    },
-    {
         "rgbCode": "rgb(218,209,143)",
         "Code": "BM-0119",
         "Name": "Snappy Green"
@@ -643,11 +613,6 @@
         "rgbCode": "rgb(208,183,138)",
         "Code": "BM-0129",
         "Name": "Oliverio"
-    },
-    {
-        "rgbCode": "rgb(129,112,72)",
-        "Code": "BM-0130",
-        "Name": "Deep Ravine\n*For interior only"
     },
     {
         "rgbCode": "rgb(158,143,111)",
